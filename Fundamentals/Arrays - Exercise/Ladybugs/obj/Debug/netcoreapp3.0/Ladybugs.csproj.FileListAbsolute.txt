@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\bin\Debug\netcoreapp3.0\Ladybugs.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\bin\Debug\netcoreapp3.0\Ladybugs.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\bin\Debug\netcoreapp3.0\Ladybugs.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\bin\Debug\netcoreapp3.0\Ladybugs.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\bin\Debug\netcoreapp3.0\Ladybugs.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\bin\Debug\netcoreapp3.0\Ladybugs.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\obj\Debug\netcoreapp3.0\Ladybugs.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\obj\Debug\netcoreapp3.0\Ladybugs.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\obj\Debug\netcoreapp3.0\Ladybugs.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\obj\Debug\netcoreapp3.0\Ladybugs.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Ladybugs\obj\Debug\netcoreapp3.0\Ladybugs.pdb

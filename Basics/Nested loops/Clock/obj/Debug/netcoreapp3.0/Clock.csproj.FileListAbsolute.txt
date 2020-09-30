@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested loops\Clock\bin\Debug\netcoreapp3.0\Clock.exe
+C:\Users\yulia\source\repos\Nested loops\Clock\bin\Debug\netcoreapp3.0\Clock.deps.json
+C:\Users\yulia\source\repos\Nested loops\Clock\bin\Debug\netcoreapp3.0\Clock.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested loops\Clock\bin\Debug\netcoreapp3.0\Clock.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested loops\Clock\bin\Debug\netcoreapp3.0\Clock.dll
+C:\Users\yulia\source\repos\Nested loops\Clock\bin\Debug\netcoreapp3.0\Clock.pdb
+C:\Users\yulia\source\repos\Nested loops\Clock\obj\Debug\netcoreapp3.0\Clock.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested loops\Clock\obj\Debug\netcoreapp3.0\Clock.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested loops\Clock\obj\Debug\netcoreapp3.0\Clock.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested loops\Clock\obj\Debug\netcoreapp3.0\Clock.dll
+C:\Users\yulia\source\repos\Nested loops\Clock\obj\Debug\netcoreapp3.0\Clock.pdb

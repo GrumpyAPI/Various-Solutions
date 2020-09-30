@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\For Loop\Left and right sum\bin\Debug\netcoreapp3.0\Left and right sum.exe
+C:\Users\yulia\source\repos\For Loop\Left and right sum\bin\Debug\netcoreapp3.0\Left and right sum.deps.json
+C:\Users\yulia\source\repos\For Loop\Left and right sum\bin\Debug\netcoreapp3.0\Left and right sum.runtimeconfig.json
+C:\Users\yulia\source\repos\For Loop\Left and right sum\bin\Debug\netcoreapp3.0\Left and right sum.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For Loop\Left and right sum\bin\Debug\netcoreapp3.0\Left and right sum.dll
+C:\Users\yulia\source\repos\For Loop\Left and right sum\bin\Debug\netcoreapp3.0\Left and right sum.pdb
+C:\Users\yulia\source\repos\For Loop\Left and right sum\obj\Debug\netcoreapp3.0\Left and right sum.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For Loop\Left and right sum\obj\Debug\netcoreapp3.0\Left and right sum.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For Loop\Left and right sum\obj\Debug\netcoreapp3.0\Left and right sum.dll
+C:\Users\yulia\source\repos\For Loop\Left and right sum\obj\Debug\netcoreapp3.0\Left and right sum.pdb

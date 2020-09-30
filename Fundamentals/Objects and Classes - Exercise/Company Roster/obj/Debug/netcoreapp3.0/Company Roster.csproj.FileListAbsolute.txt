@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\bin\Debug\netcoreapp3.0\Company Roster.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\bin\Debug\netcoreapp3.0\Company Roster.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\bin\Debug\netcoreapp3.0\Company Roster.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\bin\Debug\netcoreapp3.0\Company Roster.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\bin\Debug\netcoreapp3.0\Company Roster.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\bin\Debug\netcoreapp3.0\Company Roster.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\obj\Debug\netcoreapp3.0\Company Roster.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\obj\Debug\netcoreapp3.0\Company Roster.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\obj\Debug\netcoreapp3.0\Company Roster.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\obj\Debug\netcoreapp3.0\Company Roster.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Company Roster\obj\Debug\netcoreapp3.0\Company Roster.pdb

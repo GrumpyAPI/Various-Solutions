@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\bin\Debug\netcoreapp3.0\Fast Food.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Fast Food\obj\Debug\netcoreapp3.0\Fast Food.pdb

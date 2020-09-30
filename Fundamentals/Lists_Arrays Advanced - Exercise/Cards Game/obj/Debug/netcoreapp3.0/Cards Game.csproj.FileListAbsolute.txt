@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\bin\Debug\netcoreapp3.0\Cards Game.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\bin\Debug\netcoreapp3.0\Cards Game.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\bin\Debug\netcoreapp3.0\Cards Game.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\bin\Debug\netcoreapp3.0\Cards Game.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\bin\Debug\netcoreapp3.0\Cards Game.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\bin\Debug\netcoreapp3.0\Cards Game.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\obj\Debug\netcoreapp3.0\Cards Game.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\obj\Debug\netcoreapp3.0\Cards Game.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\obj\Debug\netcoreapp3.0\Cards Game.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\obj\Debug\netcoreapp3.0\Cards Game.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Cards Game\obj\Debug\netcoreapp3.0\Cards Game.pdb

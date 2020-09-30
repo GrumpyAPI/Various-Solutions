@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Methods\Grades\bin\Debug\netcoreapp3.0\Grades.exe
+C:\Users\yulia\source\repos\Methods\Grades\bin\Debug\netcoreapp3.0\Grades.deps.json
+C:\Users\yulia\source\repos\Methods\Grades\bin\Debug\netcoreapp3.0\Grades.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods\Grades\bin\Debug\netcoreapp3.0\Grades.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods\Grades\bin\Debug\netcoreapp3.0\Grades.dll
+C:\Users\yulia\source\repos\Methods\Grades\bin\Debug\netcoreapp3.0\Grades.pdb
+C:\Users\yulia\source\repos\Methods\Grades\obj\Debug\netcoreapp3.0\Grades.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Methods\Grades\obj\Debug\netcoreapp3.0\Grades.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods\Grades\obj\Debug\netcoreapp3.0\Grades.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods\Grades\obj\Debug\netcoreapp3.0\Grades.dll
+C:\Users\yulia\source\repos\Methods\Grades\obj\Debug\netcoreapp3.0\Grades.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Methods\Greater of two values\bin\Debug\netcoreapp3.0\Greater of two values.exe
+C:\Users\yulia\source\repos\Methods\Greater of two values\bin\Debug\netcoreapp3.0\Greater of two values.deps.json
+C:\Users\yulia\source\repos\Methods\Greater of two values\bin\Debug\netcoreapp3.0\Greater of two values.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods\Greater of two values\bin\Debug\netcoreapp3.0\Greater of two values.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods\Greater of two values\bin\Debug\netcoreapp3.0\Greater of two values.dll
+C:\Users\yulia\source\repos\Methods\Greater of two values\bin\Debug\netcoreapp3.0\Greater of two values.pdb
+C:\Users\yulia\source\repos\Methods\Greater of two values\obj\Debug\netcoreapp3.0\Greater of two values.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Methods\Greater of two values\obj\Debug\netcoreapp3.0\Greater of two values.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods\Greater of two values\obj\Debug\netcoreapp3.0\Greater of two values.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods\Greater of two values\obj\Debug\netcoreapp3.0\Greater of two values.dll
+C:\Users\yulia\source\repos\Methods\Greater of two values\obj\Debug\netcoreapp3.0\Greater of two values.pdb

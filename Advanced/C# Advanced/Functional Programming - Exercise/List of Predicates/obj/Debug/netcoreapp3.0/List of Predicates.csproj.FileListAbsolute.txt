@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\bin\Debug\netcoreapp3.0\List of Predicates.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\List of Predicates\obj\Debug\netcoreapp3.0\List of Predicates.pdb

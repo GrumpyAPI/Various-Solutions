@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.deps.json
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.dll
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.pdb
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.dll
+C:\Users\yulia\source\repos\Simple Operations\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.pdb

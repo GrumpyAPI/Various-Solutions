@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\bin\Debug\netcoreapp3.0\Oldest Family Member.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\bin\Debug\netcoreapp3.0\Oldest Family Member.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\bin\Debug\netcoreapp3.0\Oldest Family Member.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\bin\Debug\netcoreapp3.0\Oldest Family Member.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\bin\Debug\netcoreapp3.0\Oldest Family Member.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\bin\Debug\netcoreapp3.0\Oldest Family Member.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\obj\Debug\netcoreapp3.0\Oldest Family Member.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\obj\Debug\netcoreapp3.0\Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\obj\Debug\netcoreapp3.0\Oldest Family Member.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\obj\Debug\netcoreapp3.0\Oldest Family Member.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Oldest Family Member\obj\Debug\netcoreapp3.0\Oldest Family Member.pdb

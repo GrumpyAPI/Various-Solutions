@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\bin\Debug\netcoreapp2.1\New House.deps.json
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\bin\Debug\netcoreapp2.1\New House.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\bin\Debug\netcoreapp2.1\New House.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\bin\Debug\netcoreapp2.1\New House.dll
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\bin\Debug\netcoreapp2.1\New House.pdb
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\obj\Debug\netcoreapp2.1\New House.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\obj\Debug\netcoreapp2.1\New House.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\obj\Debug\netcoreapp2.1\New House.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\obj\Debug\netcoreapp2.1\New House.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\obj\Debug\netcoreapp2.1\New House.dll
+C:\Users\yulia\source\repos\Nested Conditional Statements - Exercise\New Home\obj\Debug\netcoreapp2.1\New House.pdb

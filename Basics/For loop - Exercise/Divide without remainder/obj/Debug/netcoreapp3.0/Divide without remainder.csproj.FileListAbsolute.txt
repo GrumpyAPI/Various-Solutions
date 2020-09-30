@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\bin\Debug\netcoreapp3.0\Divide without remainder.exe
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\bin\Debug\netcoreapp3.0\Divide without remainder.deps.json
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\bin\Debug\netcoreapp3.0\Divide without remainder.runtimeconfig.json
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\bin\Debug\netcoreapp3.0\Divide without remainder.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\bin\Debug\netcoreapp3.0\Divide without remainder.dll
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\bin\Debug\netcoreapp3.0\Divide without remainder.pdb
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\obj\Debug\netcoreapp3.0\Divide without remainder.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\obj\Debug\netcoreapp3.0\Divide without remainder.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\obj\Debug\netcoreapp3.0\Divide without remainder.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\obj\Debug\netcoreapp3.0\Divide without remainder.dll
+C:\Users\yulia\source\repos\For loop Exercise\Divide without remainder\obj\Debug\netcoreapp3.0\Divide without remainder.pdb

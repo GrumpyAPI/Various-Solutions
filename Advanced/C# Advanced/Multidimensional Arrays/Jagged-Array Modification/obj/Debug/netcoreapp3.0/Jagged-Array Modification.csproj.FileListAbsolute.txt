@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\netcoreapp3.0\Jagged-Array Modification.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\netcoreapp3.0\Jagged-Array Modification.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\netcoreapp3.0\Jagged-Array Modification.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\netcoreapp3.0\Jagged-Array Modification.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\netcoreapp3.0\Jagged-Array Modification.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\netcoreapp3.0\Jagged-Array Modification.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\netcoreapp3.0\Jagged-Array Modification.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\netcoreapp3.0\Jagged-Array Modification.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\netcoreapp3.0\Jagged-Array Modification.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\netcoreapp3.0\Jagged-Array Modification.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\netcoreapp3.0\Jagged-Array Modification.pdb

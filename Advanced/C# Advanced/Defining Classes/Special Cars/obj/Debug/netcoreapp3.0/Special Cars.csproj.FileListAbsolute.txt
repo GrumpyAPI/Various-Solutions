@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\bin\Debug\netcoreapp3.0\Special Cars.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Special Cars\obj\Debug\netcoreapp3.0\Special Cars.pdb

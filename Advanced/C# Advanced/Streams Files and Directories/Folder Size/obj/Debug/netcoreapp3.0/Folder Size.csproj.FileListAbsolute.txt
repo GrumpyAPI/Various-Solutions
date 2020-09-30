@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\bin\Debug\netcoreapp3.0\Folder Size.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Folder Size\obj\Debug\netcoreapp3.0\Folder Size.pdb

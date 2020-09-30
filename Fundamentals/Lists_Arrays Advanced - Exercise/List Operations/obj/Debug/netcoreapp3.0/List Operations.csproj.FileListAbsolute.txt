@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\bin\Debug\netcoreapp3.0\List Operations.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\bin\Debug\netcoreapp3.0\List Operations.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\bin\Debug\netcoreapp3.0\List Operations.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\bin\Debug\netcoreapp3.0\List Operations.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\bin\Debug\netcoreapp3.0\List Operations.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\bin\Debug\netcoreapp3.0\List Operations.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\obj\Debug\netcoreapp3.0\List Operations.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\obj\Debug\netcoreapp3.0\List Operations.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\obj\Debug\netcoreapp3.0\List Operations.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\obj\Debug\netcoreapp3.0\List Operations.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\List Operations\obj\Debug\netcoreapp3.0\List Operations.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\bin\Debug\netcoreapp3.0\Maximum And Minimum Element.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\bin\Debug\netcoreapp3.0\Maximum And Minimum Element.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\bin\Debug\netcoreapp3.0\Maximum And Minimum Element.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\bin\Debug\netcoreapp3.0\Maximum And Minimum Element.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\bin\Debug\netcoreapp3.0\Maximum And Minimum Element.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\bin\Debug\netcoreapp3.0\Maximum And Minimum Element.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\obj\Debug\netcoreapp3.0\Maximum And Minimum Element.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\obj\Debug\netcoreapp3.0\Maximum And Minimum Element.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\obj\Debug\netcoreapp3.0\Maximum And Minimum Element.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\obj\Debug\netcoreapp3.0\Maximum And Minimum Element.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Maximum And Minimum Element\obj\Debug\netcoreapp3.0\Maximum And Minimum Element.pdb

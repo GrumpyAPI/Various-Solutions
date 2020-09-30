@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\bin\Debug\netcoreapp3.0\Bomb the Basement.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\bin\Debug\netcoreapp3.0\Bomb the Basement.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\bin\Debug\netcoreapp3.0\Bomb the Basement.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\bin\Debug\netcoreapp3.0\Bomb the Basement.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\bin\Debug\netcoreapp3.0\Bomb the Basement.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\bin\Debug\netcoreapp3.0\Bomb the Basement.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\obj\Debug\netcoreapp3.0\Bomb the Basement.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\obj\Debug\netcoreapp3.0\Bomb the Basement.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\obj\Debug\netcoreapp3.0\Bomb the Basement.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bomb the Basement\obj\Debug\netcoreapp3.0\Bomb the Basement.pdb

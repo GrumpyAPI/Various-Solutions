@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp3.0\Record Unique Names.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp3.0\Record Unique Names.pdb

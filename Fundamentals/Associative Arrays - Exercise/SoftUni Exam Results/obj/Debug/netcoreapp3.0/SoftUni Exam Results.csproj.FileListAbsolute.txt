@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.exe
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.dll
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.0\SoftUni Exam Results.pdb
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.dll
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.0\SoftUni Exam Results.pdb

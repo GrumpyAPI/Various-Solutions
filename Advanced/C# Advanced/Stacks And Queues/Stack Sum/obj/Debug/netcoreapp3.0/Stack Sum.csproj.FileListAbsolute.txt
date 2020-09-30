@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\bin\Debug\netcoreapp3.0\Stack Sum.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\bin\Debug\netcoreapp3.0\Stack Sum.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\bin\Debug\netcoreapp3.0\Stack Sum.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\bin\Debug\netcoreapp3.0\Stack Sum.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\bin\Debug\netcoreapp3.0\Stack Sum.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\bin\Debug\netcoreapp3.0\Stack Sum.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\obj\Debug\netcoreapp3.0\Stack Sum.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\obj\Debug\netcoreapp3.0\Stack Sum.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\obj\Debug\netcoreapp3.0\Stack Sum.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\obj\Debug\netcoreapp3.0\Stack Sum.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Stack Sum\obj\Debug\netcoreapp3.0\Stack Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\bin\Debug\netcoreapp3.0\Take_Skip Rope.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\bin\Debug\netcoreapp3.0\Take_Skip Rope.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\bin\Debug\netcoreapp3.0\Take_Skip Rope.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\bin\Debug\netcoreapp3.0\Take_Skip Rope.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\bin\Debug\netcoreapp3.0\Take_Skip Rope.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\bin\Debug\netcoreapp3.0\Take_Skip Rope.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\obj\Debug\netcoreapp3.0\Take_Skip Rope.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\obj\Debug\netcoreapp3.0\Take_Skip Rope.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\obj\Debug\netcoreapp3.0\Take_Skip Rope.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\obj\Debug\netcoreapp3.0\Take_Skip Rope.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Take_Skip Rope\obj\Debug\netcoreapp3.0\Take_Skip Rope.pdb

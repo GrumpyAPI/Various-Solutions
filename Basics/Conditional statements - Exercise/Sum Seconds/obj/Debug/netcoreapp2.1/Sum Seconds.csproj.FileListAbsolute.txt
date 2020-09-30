@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\bin\Debug\netcoreapp2.1\Sum Seconds.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\bin\Debug\netcoreapp2.1\Sum Seconds.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\bin\Debug\netcoreapp2.1\Sum Seconds.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\bin\Debug\netcoreapp2.1\Sum Seconds.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\bin\Debug\netcoreapp2.1\Sum Seconds.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\obj\Debug\netcoreapp2.1\Sum Seconds.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\obj\Debug\netcoreapp2.1\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\obj\Debug\netcoreapp2.1\Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\obj\Debug\netcoreapp2.1\Sum Seconds.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\obj\Debug\netcoreapp2.1\Sum Seconds.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Sum Seconds\obj\Debug\netcoreapp2.1\Sum Seconds.pdb

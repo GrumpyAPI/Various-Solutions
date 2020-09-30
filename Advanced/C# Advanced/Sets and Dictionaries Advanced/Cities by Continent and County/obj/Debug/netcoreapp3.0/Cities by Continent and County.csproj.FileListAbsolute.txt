@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\bin\Debug\netcoreapp3.0\Cities by Continent and County.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\obj\Debug\netcoreapp3.0\Cities by Continent and County.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\obj\Debug\netcoreapp3.0\Cities by Continent and County.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\obj\Debug\netcoreapp3.0\Cities by Continent and County.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\bin\Debug\netcoreapp3.0\Cities by Continent and County.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\bin\Debug\netcoreapp3.0\Cities by Continent and County.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\bin\Debug\netcoreapp3.0\Cities by Continent and County.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\bin\Debug\netcoreapp3.0\Cities by Continent and County.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\bin\Debug\netcoreapp3.0\Cities by Continent and County.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\obj\Debug\netcoreapp3.0\Cities by Continent and County.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Cities by Continent and County\obj\Debug\netcoreapp3.0\Cities by Continent and County.pdb

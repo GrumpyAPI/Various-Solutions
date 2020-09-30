@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/VQki9X/blPQK5AHNqDRJu4Ukoq9SX+r+jOuodbz/dn1Av4g/j06Ywu28t3v/Zd1F4pS66tMipfbRRgdzukrw==",
+  "success": true,
+  "projectFilePath": "E:\\DOCUMENTS\\C#+\\C# softuni programs\\Basics\\Conditional statements - Exercise\\Godzilla vs Kong\\Godzilla vs Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

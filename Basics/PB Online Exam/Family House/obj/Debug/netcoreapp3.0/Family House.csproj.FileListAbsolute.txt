@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\PB Online Exam\Family House\bin\Debug\netcoreapp3.0\Family House.exe
+C:\Users\yulia\source\repos\PB Online Exam\Family House\bin\Debug\netcoreapp3.0\Family House.deps.json
+C:\Users\yulia\source\repos\PB Online Exam\Family House\bin\Debug\netcoreapp3.0\Family House.runtimeconfig.json
+C:\Users\yulia\source\repos\PB Online Exam\Family House\bin\Debug\netcoreapp3.0\Family House.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\PB Online Exam\Family House\bin\Debug\netcoreapp3.0\Family House.dll
+C:\Users\yulia\source\repos\PB Online Exam\Family House\bin\Debug\netcoreapp3.0\Family House.pdb
+C:\Users\yulia\source\repos\PB Online Exam\Family House\obj\Debug\netcoreapp3.0\Family House.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\PB Online Exam\Family House\obj\Debug\netcoreapp3.0\Family House.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\PB Online Exam\Family House\obj\Debug\netcoreapp3.0\Family House.AssemblyInfo.cs
+C:\Users\yulia\source\repos\PB Online Exam\Family House\obj\Debug\netcoreapp3.0\Family House.dll
+C:\Users\yulia\source\repos\PB Online Exam\Family House\obj\Debug\netcoreapp3.0\Family House.pdb

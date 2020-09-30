@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.exe
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.pdb
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.pdb

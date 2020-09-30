@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\bin\Release\netcoreapp2.1\Metric converter.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\bin\Release\netcoreapp2.1\Metric converter.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\bin\Release\netcoreapp2.1\Metric converter.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\bin\Release\netcoreapp2.1\Metric converter.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\bin\Release\netcoreapp2.1\Metric converter.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\obj\Release\netcoreapp2.1\Metric converter.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\obj\Release\netcoreapp2.1\Metric converter.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\obj\Release\netcoreapp2.1\Metric converter.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\obj\Release\netcoreapp2.1\Metric converter.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\obj\Release\netcoreapp2.1\Metric converter.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Metric converter\obj\Release\netcoreapp2.1\Metric converter.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\bin\Debug\netcoreapp3.0\Car Constructors.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\bin\Debug\netcoreapp3.0\Car Constructors.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\bin\Debug\netcoreapp3.0\Car Constructors.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\bin\Debug\netcoreapp3.0\Car Constructors.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\bin\Debug\netcoreapp3.0\Car Constructors.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\bin\Debug\netcoreapp3.0\Car Constructors.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\obj\Debug\netcoreapp3.0\Car Constructors.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\obj\Debug\netcoreapp3.0\Car Constructors.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\obj\Debug\netcoreapp3.0\Car Constructors.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\obj\Debug\netcoreapp3.0\Car Constructors.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Defining Classes\Car Constructors\obj\Debug\netcoreapp3.0\Car Constructors.pdb

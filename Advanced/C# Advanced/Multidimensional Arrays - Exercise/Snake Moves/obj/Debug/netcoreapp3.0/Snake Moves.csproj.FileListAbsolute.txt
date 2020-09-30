@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.0\Snake Moves.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.0\Snake Moves.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.0\Snake Moves.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.0\Snake Moves.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.0\Snake Moves.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\bin\Debug\netcoreapp3.0\Snake Moves.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.0\Snake Moves.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.0\Snake Moves.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.0\Snake Moves.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Snake Moves\obj\Debug\netcoreapp3.0\Snake Moves.pdb

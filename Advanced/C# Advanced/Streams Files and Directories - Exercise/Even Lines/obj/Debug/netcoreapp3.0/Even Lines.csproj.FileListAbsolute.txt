@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\bin\Debug\netcoreapp3.0\Even Lines.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Even Lines\obj\Debug\netcoreapp3.0\Even Lines.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\bin\Debug\netcoreapp3.0\Coffee Shop.exe
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\bin\Debug\netcoreapp3.0\Coffee Shop.deps.json
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\bin\Debug\netcoreapp3.0\Coffee Shop.runtimeconfig.json
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\bin\Debug\netcoreapp3.0\Coffee Shop.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\bin\Debug\netcoreapp3.0\Coffee Shop.dll
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\bin\Debug\netcoreapp3.0\Coffee Shop.pdb
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\obj\Debug\netcoreapp3.0\Coffee Shop.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\obj\Debug\netcoreapp3.0\Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\obj\Debug\netcoreapp3.0\Coffee Shop.AssemblyInfo.cs
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\obj\Debug\netcoreapp3.0\Coffee Shop.dll
+C:\Users\yulia\source\repos\PB Online Exam\Coffee Shop\obj\Debug\netcoreapp3.0\Coffee Shop.pdb

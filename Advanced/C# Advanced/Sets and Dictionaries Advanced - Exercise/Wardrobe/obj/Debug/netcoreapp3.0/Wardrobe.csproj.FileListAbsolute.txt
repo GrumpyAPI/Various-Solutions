@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.pdb

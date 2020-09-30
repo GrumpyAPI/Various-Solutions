@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\bin\Debug\netcoreapp3.0\Odd Even position.exe
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\bin\Debug\netcoreapp3.0\Odd Even position.deps.json
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\bin\Debug\netcoreapp3.0\Odd Even position.runtimeconfig.json
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\bin\Debug\netcoreapp3.0\Odd Even position.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\bin\Debug\netcoreapp3.0\Odd Even position.dll
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\bin\Debug\netcoreapp3.0\Odd Even position.pdb
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\obj\Debug\netcoreapp3.0\Odd Even position.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\obj\Debug\netcoreapp3.0\Odd Even position.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\obj\Debug\netcoreapp3.0\Odd Even position.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\obj\Debug\netcoreapp3.0\Odd Even position.dll
+C:\Users\yulia\source\repos\For loop Exercise\Odd Even position\obj\Debug\netcoreapp3.0\Odd Even position.pdb

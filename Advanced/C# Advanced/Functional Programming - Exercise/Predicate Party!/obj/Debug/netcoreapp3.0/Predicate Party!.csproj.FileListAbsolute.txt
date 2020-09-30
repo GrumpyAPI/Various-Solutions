@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\bin\Debug\netcoreapp3.0\Predicate Party!.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Predicate Party!\obj\Debug\netcoreapp3.0\Predicate Party!.pdb

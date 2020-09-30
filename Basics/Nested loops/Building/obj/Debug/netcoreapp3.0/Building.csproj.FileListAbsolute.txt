@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Nested loops\Building\bin\Debug\netcoreapp3.0\Building.exe
+C:\Users\yulia\source\repos\Nested loops\Building\bin\Debug\netcoreapp3.0\Building.deps.json
+C:\Users\yulia\source\repos\Nested loops\Building\bin\Debug\netcoreapp3.0\Building.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested loops\Building\bin\Debug\netcoreapp3.0\Building.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested loops\Building\bin\Debug\netcoreapp3.0\Building.dll
+C:\Users\yulia\source\repos\Nested loops\Building\bin\Debug\netcoreapp3.0\Building.pdb
+C:\Users\yulia\source\repos\Nested loops\Building\obj\Debug\netcoreapp3.0\Building.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested loops\Building\obj\Debug\netcoreapp3.0\Building.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested loops\Building\obj\Debug\netcoreapp3.0\Building.dll
+C:\Users\yulia\source\repos\Nested loops\Building\obj\Debug\netcoreapp3.0\Building.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\bin\Debug\netcoreapp3.0\Hot Potato.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\bin\Debug\netcoreapp3.0\Hot Potato.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\bin\Debug\netcoreapp3.0\Hot Potato.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\bin\Debug\netcoreapp3.0\Hot Potato.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\bin\Debug\netcoreapp3.0\Hot Potato.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\bin\Debug\netcoreapp3.0\Hot Potato.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\obj\Debug\netcoreapp3.0\Hot Potato.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\obj\Debug\netcoreapp3.0\Hot Potato.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\obj\Debug\netcoreapp3.0\Hot Potato.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\obj\Debug\netcoreapp3.0\Hot Potato.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Hot Potato\obj\Debug\netcoreapp3.0\Hot Potato.pdb

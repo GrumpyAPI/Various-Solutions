@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\bin\Debug\netcoreapp3.0\Reverse and Exclude.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\bin\Debug\netcoreapp3.0\Reverse and Exclude.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\bin\Debug\netcoreapp3.0\Reverse and Exclude.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\bin\Debug\netcoreapp3.0\Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\bin\Debug\netcoreapp3.0\Reverse and Exclude.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\bin\Debug\netcoreapp3.0\Reverse and Exclude.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\obj\Debug\netcoreapp3.0\Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\obj\Debug\netcoreapp3.0\Reverse and Exclude.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\obj\Debug\netcoreapp3.0\Reverse and Exclude.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Reverse and Exclude\obj\Debug\netcoreapp3.0\Reverse and Exclude.pdb

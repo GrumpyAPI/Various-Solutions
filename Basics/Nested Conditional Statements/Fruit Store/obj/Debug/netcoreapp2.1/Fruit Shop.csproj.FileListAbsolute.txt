@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\bin\Debug\netcoreapp2.1\Fruit Shop.deps.json
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\bin\Debug\netcoreapp2.1\Fruit Shop.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\bin\Debug\netcoreapp2.1\Fruit Shop.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\bin\Debug\netcoreapp2.1\Fruit Shop.dll
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\bin\Debug\netcoreapp2.1\Fruit Shop.pdb
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\obj\Debug\netcoreapp2.1\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\obj\Debug\netcoreapp2.1\Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\obj\Debug\netcoreapp2.1\Fruit Shop.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\obj\Debug\netcoreapp2.1\Fruit Shop.dll
+C:\Users\yulia\source\repos\Nested Conditional Statements\Fruit Store\obj\Debug\netcoreapp2.1\Fruit Shop.pdb

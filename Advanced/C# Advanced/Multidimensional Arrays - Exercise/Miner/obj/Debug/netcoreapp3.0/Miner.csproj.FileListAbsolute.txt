@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\bin\Debug\netcoreapp3.0\Miner.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\bin\Debug\netcoreapp3.0\Miner.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\bin\Debug\netcoreapp3.0\Miner.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\bin\Debug\netcoreapp3.0\Miner.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\bin\Debug\netcoreapp3.0\Miner.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\bin\Debug\netcoreapp3.0\Miner.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\obj\Debug\netcoreapp3.0\Miner.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\obj\Debug\netcoreapp3.0\Miner.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\obj\Debug\netcoreapp3.0\Miner.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\obj\Debug\netcoreapp3.0\Miner.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Miner\obj\Debug\netcoreapp3.0\Miner.pdb

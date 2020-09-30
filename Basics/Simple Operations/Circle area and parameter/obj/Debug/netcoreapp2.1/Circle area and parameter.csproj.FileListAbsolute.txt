@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\bin\Debug\netcoreapp2.1\Circle area and parameter.deps.json
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\bin\Debug\netcoreapp2.1\Circle area and parameter.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\bin\Debug\netcoreapp2.1\Circle area and parameter.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\bin\Debug\netcoreapp2.1\Circle area and parameter.dll
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\bin\Debug\netcoreapp2.1\Circle area and parameter.pdb
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\obj\Debug\netcoreapp2.1\Circle area and parameter.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\obj\Debug\netcoreapp2.1\Circle area and parameter.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\obj\Debug\netcoreapp2.1\Circle area and parameter.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\obj\Debug\netcoreapp2.1\Circle area and parameter.dll
+C:\Users\yulia\source\repos\Simple Operations\Circle area and parameter\obj\Debug\netcoreapp2.1\Circle area and parameter.pdb

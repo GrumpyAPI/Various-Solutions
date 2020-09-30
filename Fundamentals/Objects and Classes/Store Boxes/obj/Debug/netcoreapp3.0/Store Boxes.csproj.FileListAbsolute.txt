@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.exe
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.pdb
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.pdb

@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\bin\Debug\netcoreapp2.1\Aquarium.deps.json
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\bin\Debug\netcoreapp2.1\Aquarium.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\bin\Debug\netcoreapp2.1\Aquarium.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\bin\Debug\netcoreapp2.1\Aquarium.dll
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\bin\Debug\netcoreapp2.1\Aquarium.pdb
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\obj\Debug\netcoreapp2.1\Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\obj\Debug\netcoreapp2.1\Aquarium.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\obj\Debug\netcoreapp2.1\Aquarium.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\obj\Debug\netcoreapp2.1\Aquarium.dll
+C:\Users\yulia\source\repos\Simple Operations\Aquarium\obj\Debug\netcoreapp2.1\Aquarium.pdb

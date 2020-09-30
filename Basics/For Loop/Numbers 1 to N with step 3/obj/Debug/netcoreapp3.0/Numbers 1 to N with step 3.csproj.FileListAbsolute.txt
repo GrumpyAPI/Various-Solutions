@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\bin\Debug\netcoreapp3.0\Numbers 1 to N with step 3.exe
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\bin\Debug\netcoreapp3.0\Numbers 1 to N with step 3.deps.json
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\bin\Debug\netcoreapp3.0\Numbers 1 to N with step 3.runtimeconfig.json
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\bin\Debug\netcoreapp3.0\Numbers 1 to N with step 3.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\bin\Debug\netcoreapp3.0\Numbers 1 to N with step 3.dll
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\bin\Debug\netcoreapp3.0\Numbers 1 to N with step 3.pdb
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\obj\Debug\netcoreapp3.0\Numbers 1 to N with step 3.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\obj\Debug\netcoreapp3.0\Numbers 1 to N with step 3.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\obj\Debug\netcoreapp3.0\Numbers 1 to N with step 3.dll
+C:\Users\yulia\source\repos\For Loop\Numbers 1 to N with step 3\obj\Debug\netcoreapp3.0\Numbers 1 to N with step 3.pdb

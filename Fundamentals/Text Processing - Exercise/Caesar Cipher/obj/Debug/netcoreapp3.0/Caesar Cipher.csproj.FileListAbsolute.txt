@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.0\Caesar Cipher.exe
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.0\Caesar Cipher.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.0\Caesar Cipher.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.0\Caesar Cipher.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.0\Caesar Cipher.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\bin\Debug\netcoreapp3.0\Caesar Cipher.pdb
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.0\Caesar Cipher.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.0\Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.0\Caesar Cipher.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.0\Caesar Cipher.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Caesar Cipher\obj\Debug\netcoreapp3.0\Caesar Cipher.pdb

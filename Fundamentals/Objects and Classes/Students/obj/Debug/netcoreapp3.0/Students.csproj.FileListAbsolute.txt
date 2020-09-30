@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\bin\Debug\netcoreapp3.0\Students.exe
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\bin\Debug\netcoreapp3.0\Students.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\bin\Debug\netcoreapp3.0\Students.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\bin\Debug\netcoreapp3.0\Students.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\bin\Debug\netcoreapp3.0\Students.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\bin\Debug\netcoreapp3.0\Students.pdb
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\obj\Debug\netcoreapp3.0\Students.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\obj\Debug\netcoreapp3.0\Students.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\obj\Debug\netcoreapp3.0\Students.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\obj\Debug\netcoreapp3.0\Students.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Students\obj\Debug\netcoreapp3.0\Students.pdb

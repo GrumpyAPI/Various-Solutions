@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\bin\Debug\netcoreapp3.0\Order by Age.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\bin\Debug\netcoreapp3.0\Order by Age.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\bin\Debug\netcoreapp3.0\Order by Age.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\bin\Debug\netcoreapp3.0\Order by Age.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\bin\Debug\netcoreapp3.0\Order by Age.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\bin\Debug\netcoreapp3.0\Order by Age.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\obj\Debug\netcoreapp3.0\Order by Age.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\obj\Debug\netcoreapp3.0\Order by Age.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\obj\Debug\netcoreapp3.0\Order by Age.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\obj\Debug\netcoreapp3.0\Order by Age.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Order by Age\obj\Debug\netcoreapp3.0\Order by Age.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\bin\Debug\netcoreapp2.1\USD to BGN.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\bin\Debug\netcoreapp2.1\USD to BGN.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\bin\Debug\netcoreapp2.1\USD to BGN.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\bin\Debug\netcoreapp2.1\USD to BGN.dll
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\bin\Debug\netcoreapp2.1\USD to BGN.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\obj\Debug\netcoreapp2.1\USD to BGN.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\obj\Debug\netcoreapp2.1\USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\obj\Debug\netcoreapp2.1\USD to BGN.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\obj\Debug\netcoreapp2.1\USD to BGN.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\obj\Debug\netcoreapp2.1\USD to BGN.dll
+C:\Users\yulia\source\repos\Simple operations - practice\USD to BGN\obj\Debug\netcoreapp2.1\USD to BGN.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Divide without remainder/1.0.0": {
+        "runtime": {
+          "Divide without remainder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divide without remainder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

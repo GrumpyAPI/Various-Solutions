@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\bin\Debug\netcoreapp3.0\Crossroads.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\bin\Debug\netcoreapp3.0\Crossroads.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\bin\Debug\netcoreapp3.0\Crossroads.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\bin\Debug\netcoreapp3.0\Crossroads.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\bin\Debug\netcoreapp3.0\Crossroads.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\bin\Debug\netcoreapp3.0\Crossroads.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\obj\Debug\netcoreapp3.0\Crossroads.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\obj\Debug\netcoreapp3.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\obj\Debug\netcoreapp3.0\Crossroads.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\obj\Debug\netcoreapp3.0\Crossroads.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Crossroads\obj\Debug\netcoreapp3.0\Crossroads.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\bin\Debug\netcoreapp3.0\Number in range 1-100.exe
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\bin\Debug\netcoreapp3.0\Number in range 1-100.deps.json
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\bin\Debug\netcoreapp3.0\Number in range 1-100.runtimeconfig.json
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\bin\Debug\netcoreapp3.0\Number in range 1-100.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\bin\Debug\netcoreapp3.0\Number in range 1-100.dll
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\bin\Debug\netcoreapp3.0\Number in range 1-100.pdb
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\obj\Debug\netcoreapp3.0\Number in range 1-100.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\obj\Debug\netcoreapp3.0\Number in range 1-100.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\obj\Debug\netcoreapp3.0\Number in range 1-100.AssemblyInfo.cs
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\obj\Debug\netcoreapp3.0\Number in range 1-100.dll
+C:\Users\yulia\source\repos\While Loop\Number in range 1-100\obj\Debug\netcoreapp3.0\Number in range 1-100.pdb

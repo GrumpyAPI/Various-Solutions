@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\bin\Debug\netcoreapp3.0\Truck Tour.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Truck Tour\obj\Debug\netcoreapp3.0\Truck Tour.pdb

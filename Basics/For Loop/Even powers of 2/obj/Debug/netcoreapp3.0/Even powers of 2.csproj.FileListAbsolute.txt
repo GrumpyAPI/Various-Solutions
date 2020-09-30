@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\bin\Debug\netcoreapp3.0\Even powers of 2.exe
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\bin\Debug\netcoreapp3.0\Even powers of 2.deps.json
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\bin\Debug\netcoreapp3.0\Even powers of 2.runtimeconfig.json
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\bin\Debug\netcoreapp3.0\Even powers of 2.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\bin\Debug\netcoreapp3.0\Even powers of 2.dll
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\bin\Debug\netcoreapp3.0\Even powers of 2.pdb
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\obj\Debug\netcoreapp3.0\Even powers of 2.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\obj\Debug\netcoreapp3.0\Even powers of 2.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\obj\Debug\netcoreapp3.0\Even powers of 2.dll
+C:\Users\yulia\source\repos\For Loop\Even powers of 2\obj\Debug\netcoreapp3.0\Even powers of 2.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\bin\Debug\netcoreapp3.0\Equal Sums Left Right Position.exe
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\bin\Debug\netcoreapp3.0\Equal Sums Left Right Position.deps.json
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\bin\Debug\netcoreapp3.0\Equal Sums Left Right Position.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\bin\Debug\netcoreapp3.0\Equal Sums Left Right Position.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\bin\Debug\netcoreapp3.0\Equal Sums Left Right Position.dll
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\bin\Debug\netcoreapp3.0\Equal Sums Left Right Position.pdb
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\obj\Debug\netcoreapp3.0\Equal Sums Left Right Position.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\obj\Debug\netcoreapp3.0\Equal Sums Left Right Position.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\obj\Debug\netcoreapp3.0\Equal Sums Left Right Position.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\obj\Debug\netcoreapp3.0\Equal Sums Left Right Position.dll
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Equal Sums Left Right Position\obj\Debug\netcoreapp3.0\Equal Sums Left Right Position.pdb

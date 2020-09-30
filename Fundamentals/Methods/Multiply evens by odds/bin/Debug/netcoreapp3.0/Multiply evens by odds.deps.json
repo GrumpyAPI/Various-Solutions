@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Multiply evens by odds/1.0.0": {
+        "runtime": {
+          "Multiply evens by odds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiply evens by odds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

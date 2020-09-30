@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\bin\Debug\netcoreapp3.0\Merge Files.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Merge Files\obj\Debug\netcoreapp3.0\Merge Files.csprojAssemblyReference.cache

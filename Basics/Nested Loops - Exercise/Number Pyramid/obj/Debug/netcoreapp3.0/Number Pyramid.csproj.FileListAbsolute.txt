@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\bin\Debug\netcoreapp3.0\Number Pyramid.exe
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\bin\Debug\netcoreapp3.0\Number Pyramid.deps.json
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\bin\Debug\netcoreapp3.0\Number Pyramid.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\bin\Debug\netcoreapp3.0\Number Pyramid.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\bin\Debug\netcoreapp3.0\Number Pyramid.dll
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\bin\Debug\netcoreapp3.0\Number Pyramid.pdb
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\obj\Debug\netcoreapp3.0\Number Pyramid.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\obj\Debug\netcoreapp3.0\Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\obj\Debug\netcoreapp3.0\Number Pyramid.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\obj\Debug\netcoreapp3.0\Number Pyramid.dll
+C:\Users\yulia\source\repos\Nested Loops - Exercise\Number Pyramid\obj\Debug\netcoreapp3.0\Number Pyramid.pdb

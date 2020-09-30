@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\bin\Debug\netcoreapp2.1\Ski Vacation.deps.json
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\bin\Debug\netcoreapp2.1\Ski Vacation.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\bin\Debug\netcoreapp2.1\Ski Vacation.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\bin\Debug\netcoreapp2.1\Ski Vacation.dll
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\bin\Debug\netcoreapp2.1\Ski Vacation.pdb
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\obj\Debug\netcoreapp2.1\Ski Vacation.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\obj\Debug\netcoreapp2.1\Ski Vacation.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\obj\Debug\netcoreapp2.1\Ski Vacation.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\obj\Debug\netcoreapp2.1\Ski Vacation.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\obj\Debug\netcoreapp2.1\Ski Vacation.dll
+C:\Users\yulia\source\repos\Nested Conditional Statements\Ski Vacation\obj\Debug\netcoreapp2.1\Ski Vacation.pdb

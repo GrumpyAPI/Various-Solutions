@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\bin\Release\netcoreapp2.1\Godzilla vs Kong.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\bin\Release\netcoreapp2.1\Godzilla vs Kong.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\bin\Release\netcoreapp2.1\Godzilla vs Kong.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\bin\Release\netcoreapp2.1\Godzilla vs Kong.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\bin\Release\netcoreapp2.1\Godzilla vs Kong.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\obj\Release\netcoreapp2.1\Godzilla vs Kong.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\obj\Release\netcoreapp2.1\Godzilla vs Kong.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\obj\Release\netcoreapp2.1\Godzilla vs Kong.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\obj\Release\netcoreapp2.1\Godzilla vs Kong.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\obj\Release\netcoreapp2.1\Godzilla vs Kong.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Godzilla vs Kong\obj\Release\netcoreapp2.1\Godzilla vs Kong.pdb

@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\bin\Debug\netcoreapp3.0\Extract Person Information.exe
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\bin\Debug\netcoreapp3.0\Extract Person Information.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\bin\Debug\netcoreapp3.0\Extract Person Information.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\bin\Debug\netcoreapp3.0\Extract Person Information.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\bin\Debug\netcoreapp3.0\Extract Person Information.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\bin\Debug\netcoreapp3.0\Extract Person Information.pdb
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\obj\Debug\netcoreapp3.0\Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\obj\Debug\netcoreapp3.0\Extract Person Information.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\obj\Debug\netcoreapp3.0\Extract Person Information.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Extract Person Information\obj\Debug\netcoreapp3.0\Extract Person Information.pdb

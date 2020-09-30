@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\bin\Debug\netcoreapp2.1\Time + 15 minutes.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\bin\Debug\netcoreapp2.1\Time + 15 minutes.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\bin\Debug\netcoreapp2.1\Time + 15 minutes.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\bin\Debug\netcoreapp2.1\Time + 15 minutes.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\bin\Debug\netcoreapp2.1\Time + 15 minutes.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\obj\Debug\netcoreapp2.1\Time + 15 minutes.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\obj\Debug\netcoreapp2.1\Time + 15 minutes.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\obj\Debug\netcoreapp2.1\Time + 15 minutes.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\obj\Debug\netcoreapp2.1\Time + 15 minutes.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Time + 15 minutes\obj\Debug\netcoreapp2.1\Time + 15 minutes.pdb

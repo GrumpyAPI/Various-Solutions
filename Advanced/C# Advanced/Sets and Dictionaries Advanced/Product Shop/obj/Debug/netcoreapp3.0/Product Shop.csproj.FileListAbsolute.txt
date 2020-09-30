@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.0\Product Shop.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.0\Product Shop.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.0\Product Shop.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.0\Product Shop.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.0\Product Shop.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.0\Product Shop.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.0\Product Shop.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.0\Product Shop.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp3.0\Product Shop.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.0\Product Shop.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp3.0\Product Shop.pdb

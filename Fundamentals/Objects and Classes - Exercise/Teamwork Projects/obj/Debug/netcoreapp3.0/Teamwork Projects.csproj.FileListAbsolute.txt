@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\bin\Debug\netcoreapp3.0\Teamwork Projects.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\bin\Debug\netcoreapp3.0\Teamwork Projects.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\bin\Debug\netcoreapp3.0\Teamwork Projects.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\bin\Debug\netcoreapp3.0\Teamwork Projects.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\bin\Debug\netcoreapp3.0\Teamwork Projects.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\bin\Debug\netcoreapp3.0\Teamwork Projects.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\obj\Debug\netcoreapp3.0\Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\obj\Debug\netcoreapp3.0\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\obj\Debug\netcoreapp3.0\Teamwork Projects.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\obj\Debug\netcoreapp3.0\Teamwork Projects.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Teamwork Projects\obj\Debug\netcoreapp3.0\Teamwork Projects.pdb

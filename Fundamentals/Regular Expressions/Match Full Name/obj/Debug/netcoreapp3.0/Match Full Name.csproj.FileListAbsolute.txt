@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.exe
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.pdb
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\bin\Debug\netcoreapp2.1\Dance Hall.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\bin\Debug\netcoreapp2.1\Dance Hall.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\bin\Debug\netcoreapp2.1\Dance Hall.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\bin\Debug\netcoreapp2.1\Dance Hall.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\bin\Debug\netcoreapp2.1\Dance Hall.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\obj\Debug\netcoreapp2.1\Dance Hall.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\obj\Debug\netcoreapp2.1\Dance Hall.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\obj\Debug\netcoreapp2.1\Dance Hall.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\obj\Debug\netcoreapp2.1\Dance Hall.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\obj\Debug\netcoreapp2.1\Dance Hall.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Dance Hall\obj\Debug\netcoreapp2.1\Dance Hall.pdb

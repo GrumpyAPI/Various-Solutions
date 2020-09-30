@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\bin\Debug\netcoreapp3.0\Rage Quit.exe
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\bin\Debug\netcoreapp3.0\Rage Quit.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\bin\Debug\netcoreapp3.0\Rage Quit.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\bin\Debug\netcoreapp3.0\Rage Quit.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\bin\Debug\netcoreapp3.0\Rage Quit.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\bin\Debug\netcoreapp3.0\Rage Quit.pdb
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\obj\Debug\netcoreapp3.0\Rage Quit.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\obj\Debug\netcoreapp3.0\Rage Quit.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\obj\Debug\netcoreapp3.0\Rage Quit.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Rage Quit\obj\Debug\netcoreapp3.0\Rage Quit.pdb

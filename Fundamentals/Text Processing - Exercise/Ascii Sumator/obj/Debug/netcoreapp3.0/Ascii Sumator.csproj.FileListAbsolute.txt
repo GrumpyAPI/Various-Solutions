@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\bin\Debug\netcoreapp3.0\Ascii Sumator.exe
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\bin\Debug\netcoreapp3.0\Ascii Sumator.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\bin\Debug\netcoreapp3.0\Ascii Sumator.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\bin\Debug\netcoreapp3.0\Ascii Sumator.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\bin\Debug\netcoreapp3.0\Ascii Sumator.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\bin\Debug\netcoreapp3.0\Ascii Sumator.pdb
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\obj\Debug\netcoreapp3.0\Ascii Sumator.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\obj\Debug\netcoreapp3.0\Ascii Sumator.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\obj\Debug\netcoreapp3.0\Ascii Sumator.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Ascii Sumator\obj\Debug\netcoreapp3.0\Ascii Sumator.pdb

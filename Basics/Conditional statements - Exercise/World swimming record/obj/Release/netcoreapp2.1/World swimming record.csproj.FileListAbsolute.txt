@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\bin\Release\netcoreapp2.1\World swimming record.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\bin\Release\netcoreapp2.1\World swimming record.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\bin\Release\netcoreapp2.1\World swimming record.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\bin\Release\netcoreapp2.1\World swimming record.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\bin\Release\netcoreapp2.1\World swimming record.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\obj\Release\netcoreapp2.1\World swimming record.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\obj\Release\netcoreapp2.1\World swimming record.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\obj\Release\netcoreapp2.1\World swimming record.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\obj\Release\netcoreapp2.1\World swimming record.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\World swimming record\obj\Release\netcoreapp2.1\World swimming record.pdb

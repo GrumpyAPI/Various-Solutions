@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\bin\Debug\netcoreapp3.0\Filter by Age.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Filter by Age\obj\Debug\netcoreapp3.0\Filter by Age.pdb

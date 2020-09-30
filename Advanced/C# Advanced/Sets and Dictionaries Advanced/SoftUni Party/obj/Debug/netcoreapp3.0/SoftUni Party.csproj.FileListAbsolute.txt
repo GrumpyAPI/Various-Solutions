@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp3.0\SoftUni Party.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp3.0\SoftUni Party.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\bin\Debug\netcoreapp3.0\Morse Code Translator.exe
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\obj\Debug\netcoreapp3.0\Morse Code Translator.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\obj\Debug\netcoreapp3.0\Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\obj\Debug\netcoreapp3.0\Morse Code Translator.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\bin\Debug\netcoreapp3.0\Morse Code Translator.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\bin\Debug\netcoreapp3.0\Morse Code Translator.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\bin\Debug\netcoreapp3.0\Morse Code Translator.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\bin\Debug\netcoreapp3.0\Morse Code Translator.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\bin\Debug\netcoreapp3.0\Morse Code Translator.pdb
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\obj\Debug\netcoreapp3.0\Morse Code Translator.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Morse Code Translator\obj\Debug\netcoreapp3.0\Morse Code Translator.pdb

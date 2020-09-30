@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\obj\Debug\netcoreapp3.0\Odd Even sum.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\obj\Debug\netcoreapp3.0\Odd Even sum.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\bin\Debug\netcoreapp3.0\Odd Even sum.exe
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\bin\Debug\netcoreapp3.0\Odd Even sum.deps.json
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\bin\Debug\netcoreapp3.0\Odd Even sum.runtimeconfig.json
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\bin\Debug\netcoreapp3.0\Odd Even sum.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\bin\Debug\netcoreapp3.0\Odd Even sum.dll
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\bin\Debug\netcoreapp3.0\Odd Even sum.pdb
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\obj\Debug\netcoreapp3.0\Odd Even sum.dll
+C:\Users\yulia\source\repos\For Loop\Odd Even sum\obj\Debug\netcoreapp3.0\Odd Even sum.pdb

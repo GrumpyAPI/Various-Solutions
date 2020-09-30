@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.dll
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\bin\Debug\netcoreapp2.1\2D Rectangle Area.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.dll
+C:\Users\yulia\source\repos\Simple operations - practice\2D Rectangle Area\obj\Debug\netcoreapp2.1\2D Rectangle Area.pdb

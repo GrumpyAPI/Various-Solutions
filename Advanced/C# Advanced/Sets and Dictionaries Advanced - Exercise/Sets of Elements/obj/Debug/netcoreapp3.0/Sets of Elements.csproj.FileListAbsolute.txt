@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\bin\Debug\netcoreapp3.0\Sets of Elements.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\bin\Debug\netcoreapp3.0\Sets of Elements.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\bin\Debug\netcoreapp3.0\Sets of Elements.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\bin\Debug\netcoreapp3.0\Sets of Elements.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\bin\Debug\netcoreapp3.0\Sets of Elements.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\bin\Debug\netcoreapp3.0\Sets of Elements.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\obj\Debug\netcoreapp3.0\Sets of Elements.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\obj\Debug\netcoreapp3.0\Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\obj\Debug\netcoreapp3.0\Sets of Elements.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\obj\Debug\netcoreapp3.0\Sets of Elements.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Sets of Elements\obj\Debug\netcoreapp3.0\Sets of Elements.pdb

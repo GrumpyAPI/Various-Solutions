@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6k5jH6onT2MSE2Ghaw7Ff6l/2GMGriUuFs2gHS1H0jbdnWgLS3sCOGGvQUz6OmSuJeoU/zDHKWUzt3G+6dACRQ==",
+  "success": true,
+  "projectFilePath": "E:\\DOCUMENTS\\C#+\\C# softuni programs\\Advanced\\C# Advanced\\Defining Classes\\Car\\Car.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\bin\Debug\netcoreapp3.0\Student System.exe
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\bin\Debug\netcoreapp3.0\Student System.deps.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\bin\Debug\netcoreapp3.0\Student System.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\bin\Debug\netcoreapp3.0\Student System.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\bin\Debug\netcoreapp3.0\Student System.dll
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\bin\Debug\netcoreapp3.0\Student System.pdb
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\obj\Debug\netcoreapp3.0\Student System.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\obj\Debug\netcoreapp3.0\Student System.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\obj\Debug\netcoreapp3.0\Student System.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\obj\Debug\netcoreapp3.0\Student System.dll
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Student System\obj\Debug\netcoreapp3.0\Student System.pdb

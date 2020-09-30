@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.exe
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.deps.json
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.runtimeconfig.json
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.dll
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\bin\Debug\netcoreapp3.0\Equal Pairs.pdb
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.dll
+C:\Users\yulia\source\repos\For loop Exercise\Equal Pairs\obj\Debug\netcoreapp3.0\Equal Pairs.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.exe
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.pdb
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.pdb

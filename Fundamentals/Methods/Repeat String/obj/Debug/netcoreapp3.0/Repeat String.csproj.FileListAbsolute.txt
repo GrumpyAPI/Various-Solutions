@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Methods\Repeat String\bin\Debug\netcoreapp3.0\Repeat String.exe
+C:\Users\yulia\source\repos\Methods\Repeat String\bin\Debug\netcoreapp3.0\Repeat String.deps.json
+C:\Users\yulia\source\repos\Methods\Repeat String\bin\Debug\netcoreapp3.0\Repeat String.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods\Repeat String\bin\Debug\netcoreapp3.0\Repeat String.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods\Repeat String\bin\Debug\netcoreapp3.0\Repeat String.dll
+C:\Users\yulia\source\repos\Methods\Repeat String\bin\Debug\netcoreapp3.0\Repeat String.pdb
+C:\Users\yulia\source\repos\Methods\Repeat String\obj\Debug\netcoreapp3.0\Repeat String.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods\Repeat String\obj\Debug\netcoreapp3.0\Repeat String.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods\Repeat String\obj\Debug\netcoreapp3.0\Repeat String.dll
+C:\Users\yulia\source\repos\Methods\Repeat String\obj\Debug\netcoreapp3.0\Repeat String.pdb

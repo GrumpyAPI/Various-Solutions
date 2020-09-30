@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Text Processing\Substring\bin\Debug\netcoreapp3.0\Substring.exe
+C:\Users\yulia\source\repos\Text Processing\Substring\bin\Debug\netcoreapp3.0\Substring.deps.json
+C:\Users\yulia\source\repos\Text Processing\Substring\bin\Debug\netcoreapp3.0\Substring.runtimeconfig.json
+C:\Users\yulia\source\repos\Text Processing\Substring\bin\Debug\netcoreapp3.0\Substring.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Text Processing\Substring\bin\Debug\netcoreapp3.0\Substring.dll
+C:\Users\yulia\source\repos\Text Processing\Substring\bin\Debug\netcoreapp3.0\Substring.pdb
+C:\Users\yulia\source\repos\Text Processing\Substring\obj\Debug\netcoreapp3.0\Substring.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Text Processing\Substring\obj\Debug\netcoreapp3.0\Substring.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Text Processing\Substring\obj\Debug\netcoreapp3.0\Substring.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Text Processing\Substring\obj\Debug\netcoreapp3.0\Substring.dll
+C:\Users\yulia\source\repos\Text Processing\Substring\obj\Debug\netcoreapp3.0\Substring.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.pdb

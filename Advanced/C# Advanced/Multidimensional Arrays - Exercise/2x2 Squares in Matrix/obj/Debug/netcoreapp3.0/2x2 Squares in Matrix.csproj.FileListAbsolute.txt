@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\bin\Debug\netcoreapp3.0\2x2 Squares in Matrix.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\bin\Debug\netcoreapp3.0\2x2 Squares in Matrix.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\bin\Debug\netcoreapp3.0\2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\bin\Debug\netcoreapp3.0\2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\bin\Debug\netcoreapp3.0\2x2 Squares in Matrix.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\bin\Debug\netcoreapp3.0\2x2 Squares in Matrix.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\obj\Debug\netcoreapp3.0\2x2 Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\obj\Debug\netcoreapp3.0\2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\obj\Debug\netcoreapp3.0\2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\obj\Debug\netcoreapp3.0\2x2 Squares in Matrix.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\2x2 Squares in Matrix\obj\Debug\netcoreapp3.0\2x2 Squares in Matrix.pdb

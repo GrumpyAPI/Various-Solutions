@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\obj\Debug\netcoreapp2.1\Area of figures.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\obj\Debug\netcoreapp2.1\Area of figures.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\obj\Debug\netcoreapp2.1\Area of figures.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\obj\Debug\netcoreapp2.1\Area of figures.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\bin\Debug\netcoreapp2.1\Area of figures.deps.json
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\bin\Debug\netcoreapp2.1\Area of figures.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\bin\Debug\netcoreapp2.1\Area of figures.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\bin\Debug\netcoreapp2.1\Area of figures.dll
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\bin\Debug\netcoreapp2.1\Area of figures.pdb
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\obj\Debug\netcoreapp2.1\Area of figures.dll
+C:\Users\yulia\source\repos\Conditional Statements\Area of figures\obj\Debug\netcoreapp2.1\Area of figures.pdb

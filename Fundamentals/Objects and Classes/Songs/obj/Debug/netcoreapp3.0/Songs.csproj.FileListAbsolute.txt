@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\bin\Debug\netcoreapp3.0\Songs.exe
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\bin\Debug\netcoreapp3.0\Songs.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\bin\Debug\netcoreapp3.0\Songs.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\bin\Debug\netcoreapp3.0\Songs.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\bin\Debug\netcoreapp3.0\Songs.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\bin\Debug\netcoreapp3.0\Songs.pdb
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\obj\Debug\netcoreapp3.0\Songs.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\obj\Debug\netcoreapp3.0\Songs.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\obj\Debug\netcoreapp3.0\Songs.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\obj\Debug\netcoreapp3.0\Songs.dll
+C:\Users\yulia\source\repos\Fundamentals\Objects and Classes\Songs\obj\Debug\netcoreapp3.0\Songs.pdb

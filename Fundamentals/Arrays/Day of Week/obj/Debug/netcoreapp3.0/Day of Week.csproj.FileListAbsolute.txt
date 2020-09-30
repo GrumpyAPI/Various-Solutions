@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\bin\Debug\netcoreapp3.0\Day of Week.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Day of Week\obj\Debug\netcoreapp3.0\Day of Week.pdb

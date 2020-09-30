@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\bin\Debug\netcoreapp3.0\Print numbers in reversed order.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\bin\Debug\netcoreapp3.0\Print numbers in reversed order.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\bin\Debug\netcoreapp3.0\Print numbers in reversed order.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\bin\Debug\netcoreapp3.0\Print numbers in reversed order.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\bin\Debug\netcoreapp3.0\Print numbers in reversed order.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\bin\Debug\netcoreapp3.0\Print numbers in reversed order.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\obj\Debug\netcoreapp3.0\Print numbers in reversed order.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\obj\Debug\netcoreapp3.0\Print numbers in reversed order.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\obj\Debug\netcoreapp3.0\Print numbers in reversed order.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Print numbers in reversed order\obj\Debug\netcoreapp3.0\Print numbers in reversed order.pdb

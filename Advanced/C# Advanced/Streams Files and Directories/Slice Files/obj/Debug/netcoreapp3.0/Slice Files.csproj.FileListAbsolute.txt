@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\bin\Debug\netcoreapp3.0\Slice Files.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\bin\Debug\netcoreapp3.0\Slice Files.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\bin\Debug\netcoreapp3.0\Slice Files.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\bin\Debug\netcoreapp3.0\Slice Files.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\bin\Debug\netcoreapp3.0\Slice Files.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\bin\Debug\netcoreapp3.0\Slice Files.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\obj\Debug\netcoreapp3.0\Slice Files.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\obj\Debug\netcoreapp3.0\Slice Files.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\obj\Debug\netcoreapp3.0\Slice Files.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\obj\Debug\netcoreapp3.0\Slice Files.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Slice Files\obj\Debug\netcoreapp3.0\Slice Files.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.0\Vehicle Catalogue.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.0\Vehicle Catalogue.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.0\Vehicle Catalogue.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.0\Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.0\Vehicle Catalogue.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.0\Vehicle Catalogue.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.0\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.0\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.0\Vehicle Catalogue.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.0\Vehicle Catalogue.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.0\Vehicle Catalogue.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\bin\Debug\netcoreapp3.0\Letters Change Numbers.exe
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\bin\Debug\netcoreapp3.0\Letters Change Numbers.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\bin\Debug\netcoreapp3.0\Letters Change Numbers.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\bin\Debug\netcoreapp3.0\Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\bin\Debug\netcoreapp3.0\Letters Change Numbers.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\bin\Debug\netcoreapp3.0\Letters Change Numbers.pdb
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\obj\Debug\netcoreapp3.0\Letters Change Numbers.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\obj\Debug\netcoreapp3.0\Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\obj\Debug\netcoreapp3.0\Letters Change Numbers.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\obj\Debug\netcoreapp3.0\Letters Change Numbers.dll
+C:\Users\yulia\source\repos\Fundamentals\Text Processing - Exercise\Letters Change Numbers\obj\Debug\netcoreapp3.0\Letters Change Numbers.pdb

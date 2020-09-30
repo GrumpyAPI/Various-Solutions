@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\bin\Debug\netcoreapp3.0\Simple Text Editor.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Simple Text Editor\obj\Debug\netcoreapp3.0\Simple Text Editor.pdb

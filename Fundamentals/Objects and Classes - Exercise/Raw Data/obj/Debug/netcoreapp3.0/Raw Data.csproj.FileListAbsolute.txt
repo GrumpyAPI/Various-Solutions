@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\bin\Debug\netcoreapp3.0\Raw Data.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\bin\Debug\netcoreapp3.0\Raw Data.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\bin\Debug\netcoreapp3.0\Raw Data.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\bin\Debug\netcoreapp3.0\Raw Data.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\bin\Debug\netcoreapp3.0\Raw Data.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\bin\Debug\netcoreapp3.0\Raw Data.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\obj\Debug\netcoreapp3.0\Raw Data.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\obj\Debug\netcoreapp3.0\Raw Data.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\obj\Debug\netcoreapp3.0\Raw Data.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\obj\Debug\netcoreapp3.0\Raw Data.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Raw Data\obj\Debug\netcoreapp3.0\Raw Data.pdb

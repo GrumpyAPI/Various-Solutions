@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\bin\Debug\netcoreapp3.0\Challenge the Wedding.exe
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\bin\Debug\netcoreapp3.0\Challenge the Wedding.deps.json
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\bin\Debug\netcoreapp3.0\Challenge the Wedding.runtimeconfig.json
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\bin\Debug\netcoreapp3.0\Challenge the Wedding.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\bin\Debug\netcoreapp3.0\Challenge the Wedding.dll
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\bin\Debug\netcoreapp3.0\Challenge the Wedding.pdb
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\obj\Debug\netcoreapp3.0\Challenge the Wedding.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\obj\Debug\netcoreapp3.0\Challenge the Wedding.AssemblyInfo.cs
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\obj\Debug\netcoreapp3.0\Challenge the Wedding.dll
+C:\Users\yulia\source\repos\PB Online Exam\Challenge the Wedding\obj\Debug\netcoreapp3.0\Challenge the Wedding.pdb

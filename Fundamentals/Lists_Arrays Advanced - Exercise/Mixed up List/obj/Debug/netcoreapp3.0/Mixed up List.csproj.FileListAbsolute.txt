@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\bin\Debug\netcoreapp3.0\Mixed up List.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\bin\Debug\netcoreapp3.0\Mixed up List.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\bin\Debug\netcoreapp3.0\Mixed up List.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\bin\Debug\netcoreapp3.0\Mixed up List.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\bin\Debug\netcoreapp3.0\Mixed up List.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\bin\Debug\netcoreapp3.0\Mixed up List.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\obj\Debug\netcoreapp3.0\Mixed up List.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\obj\Debug\netcoreapp3.0\Mixed up List.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\obj\Debug\netcoreapp3.0\Mixed up List.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\obj\Debug\netcoreapp3.0\Mixed up List.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Mixed up List\obj\Debug\netcoreapp3.0\Mixed up List.pdb

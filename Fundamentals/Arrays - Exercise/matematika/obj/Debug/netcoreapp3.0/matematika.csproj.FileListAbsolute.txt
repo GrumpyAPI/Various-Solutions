@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\bin\Debug\netcoreapp3.0\matematika.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\bin\Debug\netcoreapp3.0\matematika.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\bin\Debug\netcoreapp3.0\matematika.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\bin\Debug\netcoreapp3.0\matematika.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\bin\Debug\netcoreapp3.0\matematika.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\bin\Debug\netcoreapp3.0\matematika.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\obj\Debug\netcoreapp3.0\matematika.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\obj\Debug\netcoreapp3.0\matematika.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\obj\Debug\netcoreapp3.0\matematika.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\obj\Debug\netcoreapp3.0\matematika.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\matematika\obj\Debug\netcoreapp3.0\matematika.pdb

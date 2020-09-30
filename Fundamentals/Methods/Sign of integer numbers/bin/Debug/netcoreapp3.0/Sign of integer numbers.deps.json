@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Sign of integer numbers/1.0.0": {
+        "runtime": {
+          "Sign of integer numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sign of integer numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

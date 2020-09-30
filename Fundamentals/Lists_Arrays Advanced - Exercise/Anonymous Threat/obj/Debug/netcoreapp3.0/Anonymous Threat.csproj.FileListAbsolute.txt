@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\bin\Debug\netcoreapp3.0\Anonymous Threat.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\bin\Debug\netcoreapp3.0\Anonymous Threat.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\bin\Debug\netcoreapp3.0\Anonymous Threat.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\bin\Debug\netcoreapp3.0\Anonymous Threat.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\bin\Debug\netcoreapp3.0\Anonymous Threat.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\bin\Debug\netcoreapp3.0\Anonymous Threat.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\obj\Debug\netcoreapp3.0\Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\obj\Debug\netcoreapp3.0\Anonymous Threat.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\obj\Debug\netcoreapp3.0\Anonymous Threat.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\obj\Debug\netcoreapp3.0\Anonymous Threat.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Anonymous Threat\obj\Debug\netcoreapp3.0\Anonymous Threat.csprojAssemblyReference.cache

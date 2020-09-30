@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9Wt0Y15M21VgKaVzzltRc52rql2Rs1wF5zHwuw5DCSU+hYGuCII8Q3+svGeRWJu9uhC9D/AWTb9iYMbS/qfDw==",
+  "success": true,
+  "projectFilePath": "E:\\DOCUMENTS\\C#+\\C# softuni programs\\Fundamentals\\Associative Arrays\\Word Synonyms\\Word Synonyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

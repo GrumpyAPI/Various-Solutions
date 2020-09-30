@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\bin\Debug\netcoreapp3.0\List Of Products.exe
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\bin\Debug\netcoreapp3.0\List Of Products.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\bin\Debug\netcoreapp3.0\List Of Products.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\bin\Debug\netcoreapp3.0\List Of Products.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\bin\Debug\netcoreapp3.0\List Of Products.dll
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\bin\Debug\netcoreapp3.0\List Of Products.pdb
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\obj\Debug\netcoreapp3.0\List Of Products.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\obj\Debug\netcoreapp3.0\List Of Products.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\obj\Debug\netcoreapp3.0\List Of Products.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\obj\Debug\netcoreapp3.0\List Of Products.dll
+C:\Users\yulia\source\repos\Fundamentals\Lists_Arrays Advanced\List Of Products\obj\Debug\netcoreapp3.0\List Of Products.pdb

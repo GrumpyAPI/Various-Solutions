@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp3.0\Parking Lot.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp3.0\Parking Lot.pdb

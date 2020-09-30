@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\bin\Debug\netcoreapp3.0\Sum of two numbers.exe
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\bin\Debug\netcoreapp3.0\Sum of two numbers.deps.json
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\bin\Debug\netcoreapp3.0\Sum of two numbers.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\bin\Debug\netcoreapp3.0\Sum of two numbers.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\bin\Debug\netcoreapp3.0\Sum of two numbers.dll
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\bin\Debug\netcoreapp3.0\Sum of two numbers.pdb
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\obj\Debug\netcoreapp3.0\Sum of two numbers.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\obj\Debug\netcoreapp3.0\Sum of two numbers.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\obj\Debug\netcoreapp3.0\Sum of two numbers.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\obj\Debug\netcoreapp3.0\Sum of two numbers.dll
+C:\Users\yulia\source\repos\Nested loops\Sum of two numbers\obj\Debug\netcoreapp3.0\Sum of two numbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.0\Smallest of Three Numbers.exe
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.0\Smallest of Three Numbers.deps.json
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.0\Smallest of Three Numbers.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.0\Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.0\Smallest of Three Numbers.dll
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\bin\Debug\netcoreapp3.0\Smallest of Three Numbers.pdb
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.0\Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.0\Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.0\Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.0\Smallest of Three Numbers.dll
+C:\Users\yulia\source\repos\Methods Exercise\Smallest of Three Numbers\obj\Debug\netcoreapp3.0\Smallest of Three Numbers.pdb

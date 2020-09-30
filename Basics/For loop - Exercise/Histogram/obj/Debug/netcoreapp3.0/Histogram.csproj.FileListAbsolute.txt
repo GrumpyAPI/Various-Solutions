@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.exe
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.deps.json
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.runtimeconfig.json
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.dll
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\bin\Debug\netcoreapp3.0\Histogram.pdb
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.dll
+C:\Users\yulia\source\repos\For loop Exercise\Histogram\obj\Debug\netcoreapp3.0\Histogram.pdb

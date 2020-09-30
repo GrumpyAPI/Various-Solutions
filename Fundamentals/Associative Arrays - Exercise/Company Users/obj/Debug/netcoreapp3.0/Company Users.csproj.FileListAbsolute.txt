@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\bin\Debug\netcoreapp3.0\Company Users.exe
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\bin\Debug\netcoreapp3.0\Company Users.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\bin\Debug\netcoreapp3.0\Company Users.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\bin\Debug\netcoreapp3.0\Company Users.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\bin\Debug\netcoreapp3.0\Company Users.dll
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\bin\Debug\netcoreapp3.0\Company Users.pdb
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\obj\Debug\netcoreapp3.0\Company Users.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\obj\Debug\netcoreapp3.0\Company Users.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\obj\Debug\netcoreapp3.0\Company Users.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\obj\Debug\netcoreapp3.0\Company Users.dll
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Company Users\obj\Debug\netcoreapp3.0\Company Users.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.csprojAssemblyReference.cache

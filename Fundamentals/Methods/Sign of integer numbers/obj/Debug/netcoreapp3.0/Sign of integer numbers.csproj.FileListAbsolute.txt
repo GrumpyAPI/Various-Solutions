@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\bin\Debug\netcoreapp3.0\Sign of integer numbers.exe
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\bin\Debug\netcoreapp3.0\Sign of integer numbers.deps.json
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\bin\Debug\netcoreapp3.0\Sign of integer numbers.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\bin\Debug\netcoreapp3.0\Sign of integer numbers.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\bin\Debug\netcoreapp3.0\Sign of integer numbers.dll
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\bin\Debug\netcoreapp3.0\Sign of integer numbers.pdb
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\obj\Debug\netcoreapp3.0\Sign of integer numbers.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\obj\Debug\netcoreapp3.0\Sign of integer numbers.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\obj\Debug\netcoreapp3.0\Sign of integer numbers.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\obj\Debug\netcoreapp3.0\Sign of integer numbers.dll
+C:\Users\yulia\source\repos\Methods\Sign of integer numbers\obj\Debug\netcoreapp3.0\Sign of integer numbers.pdb

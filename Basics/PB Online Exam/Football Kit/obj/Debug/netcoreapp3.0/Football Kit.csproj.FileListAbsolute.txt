@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\bin\Debug\netcoreapp3.0\Football Kit.exe
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\bin\Debug\netcoreapp3.0\Football Kit.deps.json
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\bin\Debug\netcoreapp3.0\Football Kit.runtimeconfig.json
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\bin\Debug\netcoreapp3.0\Football Kit.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\bin\Debug\netcoreapp3.0\Football Kit.dll
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\bin\Debug\netcoreapp3.0\Football Kit.pdb
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\obj\Debug\netcoreapp3.0\Football Kit.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\obj\Debug\netcoreapp3.0\Football Kit.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\obj\Debug\netcoreapp3.0\Football Kit.AssemblyInfo.cs
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\obj\Debug\netcoreapp3.0\Football Kit.dll
+C:\Users\yulia\source\repos\PB Online Exam\Football Kit\obj\Debug\netcoreapp3.0\Football Kit.pdb

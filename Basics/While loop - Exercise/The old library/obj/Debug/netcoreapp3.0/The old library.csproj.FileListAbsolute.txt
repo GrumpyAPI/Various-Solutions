@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\bin\Debug\netcoreapp3.0\The old library.exe
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\bin\Debug\netcoreapp3.0\The old library.deps.json
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\bin\Debug\netcoreapp3.0\The old library.runtimeconfig.json
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\bin\Debug\netcoreapp3.0\The old library.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\bin\Debug\netcoreapp3.0\The old library.dll
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\bin\Debug\netcoreapp3.0\The old library.pdb
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\obj\Debug\netcoreapp3.0\The old library.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\obj\Debug\netcoreapp3.0\The old library.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\obj\Debug\netcoreapp3.0\The old library.AssemblyInfo.cs
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\obj\Debug\netcoreapp3.0\The old library.dll
+C:\Users\yulia\source\repos\While loop - Exercise\The old library\obj\Debug\netcoreapp3.0\The old library.pdb

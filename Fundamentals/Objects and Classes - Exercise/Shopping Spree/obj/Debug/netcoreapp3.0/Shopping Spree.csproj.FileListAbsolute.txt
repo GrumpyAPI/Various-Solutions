@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\bin\Debug\netcoreapp3.0\Shopping Spree.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Objects and Classes\Shopping Spree\obj\Debug\netcoreapp3.0\Shopping Spree.pdb

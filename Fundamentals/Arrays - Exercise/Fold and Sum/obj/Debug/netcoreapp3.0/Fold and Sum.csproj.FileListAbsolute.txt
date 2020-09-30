@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\bin\Debug\netcoreapp3.0\Fold and Sum.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\bin\Debug\netcoreapp3.0\Fold and Sum.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\bin\Debug\netcoreapp3.0\Fold and Sum.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\bin\Debug\netcoreapp3.0\Fold and Sum.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\bin\Debug\netcoreapp3.0\Fold and Sum.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\bin\Debug\netcoreapp3.0\Fold and Sum.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\obj\Debug\netcoreapp3.0\Fold and Sum.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\obj\Debug\netcoreapp3.0\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\obj\Debug\netcoreapp3.0\Fold and Sum.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\obj\Debug\netcoreapp3.0\Fold and Sum.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays Exercise\Fold and Sum\obj\Debug\netcoreapp3.0\Fold and Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\bin\Debug\netcoreapp3.0\Multiply evens by odds.exe
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\bin\Debug\netcoreapp3.0\Multiply evens by odds.deps.json
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\bin\Debug\netcoreapp3.0\Multiply evens by odds.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\bin\Debug\netcoreapp3.0\Multiply evens by odds.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\bin\Debug\netcoreapp3.0\Multiply evens by odds.dll
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\bin\Debug\netcoreapp3.0\Multiply evens by odds.pdb
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\obj\Debug\netcoreapp3.0\Multiply evens by odds.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\obj\Debug\netcoreapp3.0\Multiply evens by odds.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\obj\Debug\netcoreapp3.0\Multiply evens by odds.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\obj\Debug\netcoreapp3.0\Multiply evens by odds.dll
+C:\Users\yulia\source\repos\Methods\Multiply evens by odds\obj\Debug\netcoreapp3.0\Multiply evens by odds.pdb

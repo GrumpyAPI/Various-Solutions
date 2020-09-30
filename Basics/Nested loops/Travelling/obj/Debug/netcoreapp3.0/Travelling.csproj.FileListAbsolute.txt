@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Nested loops\Travelling\bin\Debug\netcoreapp3.0\Travelling.exe
+C:\Users\yulia\source\repos\Nested loops\Travelling\bin\Debug\netcoreapp3.0\Travelling.deps.json
+C:\Users\yulia\source\repos\Nested loops\Travelling\bin\Debug\netcoreapp3.0\Travelling.runtimeconfig.json
+C:\Users\yulia\source\repos\Nested loops\Travelling\bin\Debug\netcoreapp3.0\Travelling.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Nested loops\Travelling\bin\Debug\netcoreapp3.0\Travelling.dll
+C:\Users\yulia\source\repos\Nested loops\Travelling\bin\Debug\netcoreapp3.0\Travelling.pdb
+C:\Users\yulia\source\repos\Nested loops\Travelling\obj\Debug\netcoreapp3.0\Travelling.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Nested loops\Travelling\obj\Debug\netcoreapp3.0\Travelling.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Nested loops\Travelling\obj\Debug\netcoreapp3.0\Travelling.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Nested loops\Travelling\obj\Debug\netcoreapp3.0\Travelling.dll
+C:\Users\yulia\source\repos\Nested loops\Travelling\obj\Debug\netcoreapp3.0\Travelling.pdb

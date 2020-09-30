@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\bin\Debug\netcoreapp3.0\Action Point.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\bin\Debug\netcoreapp3.0\Action Point.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\bin\Debug\netcoreapp3.0\Action Point.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\bin\Debug\netcoreapp3.0\Action Point.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\bin\Debug\netcoreapp3.0\Action Point.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\bin\Debug\netcoreapp3.0\Action Point.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\obj\Debug\netcoreapp3.0\Action Point.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\obj\Debug\netcoreapp3.0\Action Point.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\obj\Debug\netcoreapp3.0\Action Point.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\obj\Debug\netcoreapp3.0\Action Point.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming - Exercise\Action Point\obj\Debug\netcoreapp3.0\Action Point.pdb

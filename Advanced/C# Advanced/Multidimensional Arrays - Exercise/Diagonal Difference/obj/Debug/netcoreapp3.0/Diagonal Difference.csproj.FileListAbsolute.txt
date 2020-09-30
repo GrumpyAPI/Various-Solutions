@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.pdb

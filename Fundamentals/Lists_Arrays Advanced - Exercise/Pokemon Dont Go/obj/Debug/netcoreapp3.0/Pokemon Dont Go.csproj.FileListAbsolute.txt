@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\bin\Debug\netcoreapp3.0\Pokemon Dont Go.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\bin\Debug\netcoreapp3.0\Pokemon Dont Go.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\bin\Debug\netcoreapp3.0\Pokemon Dont Go.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\bin\Debug\netcoreapp3.0\Pokemon Dont Go.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\bin\Debug\netcoreapp3.0\Pokemon Dont Go.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\bin\Debug\netcoreapp3.0\Pokemon Dont Go.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\obj\Debug\netcoreapp3.0\Pokemon Dont Go.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\obj\Debug\netcoreapp3.0\Pokemon Dont Go.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\obj\Debug\netcoreapp3.0\Pokemon Dont Go.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\obj\Debug\netcoreapp3.0\Pokemon Dont Go.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Pokemon Dont Go\obj\Debug\netcoreapp3.0\Pokemon Dont Go.pdb

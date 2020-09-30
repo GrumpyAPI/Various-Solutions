@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\bin\Debug\netcoreapp2.1\Number 1 to 9 in text.deps.json
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\bin\Debug\netcoreapp2.1\Number 1 to 9 in text.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\bin\Debug\netcoreapp2.1\Number 1 to 9 in text.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\bin\Debug\netcoreapp2.1\Number 1 to 9 in text.dll
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\bin\Debug\netcoreapp2.1\Number 1 to 9 in text.pdb
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\obj\Debug\netcoreapp2.1\Number 1 to 9 in text.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\obj\Debug\netcoreapp2.1\Number 1 to 9 in text.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\obj\Debug\netcoreapp2.1\Number 1 to 9 in text.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\obj\Debug\netcoreapp2.1\Number 1 to 9 in text.dll
+C:\Users\yulia\source\repos\Conditional Statements\Number 1 to 9 in text\obj\Debug\netcoreapp2.1\Number 1 to 9 in text.pdb

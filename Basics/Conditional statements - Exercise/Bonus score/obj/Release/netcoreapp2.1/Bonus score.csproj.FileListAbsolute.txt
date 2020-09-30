@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\bin\Release\netcoreapp2.1\Bonus score.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\bin\Release\netcoreapp2.1\Bonus score.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\bin\Release\netcoreapp2.1\Bonus score.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\bin\Release\netcoreapp2.1\Bonus score.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\bin\Release\netcoreapp2.1\Bonus score.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\obj\Release\netcoreapp2.1\Bonus score.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\obj\Release\netcoreapp2.1\Bonus score.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\obj\Release\netcoreapp2.1\Bonus score.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\obj\Release\netcoreapp2.1\Bonus score.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Bonus score\obj\Release\netcoreapp2.1\Bonus score.pdb

@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\bin\Debug\netcoreapp2.1\Day of the week.deps.json
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\bin\Debug\netcoreapp2.1\Day of the week.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\bin\Debug\netcoreapp2.1\Day of the week.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\bin\Debug\netcoreapp2.1\Day of the week.dll
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\bin\Debug\netcoreapp2.1\Day of the week.pdb
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\obj\Debug\netcoreapp2.1\Day of the week.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\obj\Debug\netcoreapp2.1\Day of the week.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\obj\Debug\netcoreapp2.1\Day of the week.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\obj\Debug\netcoreapp2.1\Day of the week.dll
+C:\Users\yulia\source\repos\Conditional Statements\Day of the week\obj\Debug\netcoreapp2.1\Day of the week.pdb

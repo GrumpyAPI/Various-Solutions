@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\bin\Debug\netcoreapp3.0\Line Numbers.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\bin\Debug\netcoreapp3.0\Line Numbers.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\bin\Debug\netcoreapp3.0\Line Numbers.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\bin\Debug\netcoreapp3.0\Line Numbers.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\bin\Debug\netcoreapp3.0\Line Numbers.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\bin\Debug\netcoreapp3.0\Line Numbers.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\obj\Debug\netcoreapp3.0\Line Numbers.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\obj\Debug\netcoreapp3.0\Line Numbers.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\obj\Debug\netcoreapp3.0\Line Numbers.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\obj\Debug\netcoreapp3.0\Line Numbers.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories\Line Numbers\obj\Debug\netcoreapp3.0\Line Numbers.pdb

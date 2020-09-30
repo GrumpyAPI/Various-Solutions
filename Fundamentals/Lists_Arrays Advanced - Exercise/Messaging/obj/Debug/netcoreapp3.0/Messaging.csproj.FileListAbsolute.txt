@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\bin\Debug\netcoreapp3.0\Messaging.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\bin\Debug\netcoreapp3.0\Messaging.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\bin\Debug\netcoreapp3.0\Messaging.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\bin\Debug\netcoreapp3.0\Messaging.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\bin\Debug\netcoreapp3.0\Messaging.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\bin\Debug\netcoreapp3.0\Messaging.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\obj\Debug\netcoreapp3.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\obj\Debug\netcoreapp3.0\Messaging.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\obj\Debug\netcoreapp3.0\Messaging.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\obj\Debug\netcoreapp3.0\Messaging.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Messaging\obj\Debug\netcoreapp3.0\Messaging.csprojAssemblyReference.cache

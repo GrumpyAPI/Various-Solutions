@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\bin\Debug\netcoreapp2.1\Tailoring workshop.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\bin\Debug\netcoreapp2.1\Tailoring workshop.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\bin\Debug\netcoreapp2.1\Tailoring workshop.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\bin\Debug\netcoreapp2.1\Tailoring workshop.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\bin\Debug\netcoreapp2.1\Tailoring workshop.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\obj\Debug\netcoreapp2.1\Tailoring workshop.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\obj\Debug\netcoreapp2.1\Tailoring workshop.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\obj\Debug\netcoreapp2.1\Tailoring workshop.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\obj\Debug\netcoreapp2.1\Tailoring workshop.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\obj\Debug\netcoreapp2.1\Tailoring workshop.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Tailoring workshop\obj\Debug\netcoreapp2.1\Tailoring workshop.pdb

@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\bin\Debug\netcoreapp2.1\Radians to degrees.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\bin\Debug\netcoreapp2.1\Radians to degrees.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\bin\Debug\netcoreapp2.1\Radians to degrees.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\bin\Debug\netcoreapp2.1\Radians to degrees.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\bin\Debug\netcoreapp2.1\Radians to degrees.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\obj\Debug\netcoreapp2.1\Radians to degrees.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\obj\Debug\netcoreapp2.1\Radians to degrees.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\obj\Debug\netcoreapp2.1\Radians to degrees.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\obj\Debug\netcoreapp2.1\Radians to degrees.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Radians to degrees\obj\Debug\netcoreapp2.1\Radians to degrees.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\bin\Debug\netcoreapp2.1\Alcohol market.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\bin\Debug\netcoreapp2.1\Alcohol market.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\bin\Debug\netcoreapp2.1\Alcohol market.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\bin\Debug\netcoreapp2.1\Alcohol market.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\bin\Debug\netcoreapp2.1\Alcohol market.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\obj\Debug\netcoreapp2.1\Alcohol market.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\obj\Debug\netcoreapp2.1\Alcohol market.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\obj\Debug\netcoreapp2.1\Alcohol market.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\obj\Debug\netcoreapp2.1\Alcohol market.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\obj\Debug\netcoreapp2.1\Alcohol market.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Alcohol market\obj\Debug\netcoreapp2.1\Alcohol market.pdb

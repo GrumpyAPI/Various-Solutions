@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\bin\Debug\netcoreapp3.0\Winning Ticket.exe
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\bin\Debug\netcoreapp3.0\Winning Ticket.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\bin\Debug\netcoreapp3.0\Winning Ticket.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\bin\Debug\netcoreapp3.0\Winning Ticket.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\bin\Debug\netcoreapp3.0\Winning Ticket.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\bin\Debug\netcoreapp3.0\Winning Ticket.pdb
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\obj\Debug\netcoreapp3.0\Winning Ticket.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\obj\Debug\netcoreapp3.0\Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\obj\Debug\netcoreapp3.0\Winning Ticket.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\obj\Debug\netcoreapp3.0\Winning Ticket.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Winning Ticket\obj\Debug\netcoreapp3.0\Winning Ticket.pdb

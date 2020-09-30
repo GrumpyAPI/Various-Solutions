@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\While Loop\Graduation\bin\Debug\netcoreapp3.0\Graduation.exe
+C:\Users\yulia\source\repos\While Loop\Graduation\bin\Debug\netcoreapp3.0\Graduation.deps.json
+C:\Users\yulia\source\repos\While Loop\Graduation\bin\Debug\netcoreapp3.0\Graduation.runtimeconfig.json
+C:\Users\yulia\source\repos\While Loop\Graduation\bin\Debug\netcoreapp3.0\Graduation.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\While Loop\Graduation\bin\Debug\netcoreapp3.0\Graduation.dll
+C:\Users\yulia\source\repos\While Loop\Graduation\bin\Debug\netcoreapp3.0\Graduation.pdb
+C:\Users\yulia\source\repos\While Loop\Graduation\obj\Debug\netcoreapp3.0\Graduation.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\While Loop\Graduation\obj\Debug\netcoreapp3.0\Graduation.AssemblyInfo.cs
+C:\Users\yulia\source\repos\While Loop\Graduation\obj\Debug\netcoreapp3.0\Graduation.dll
+C:\Users\yulia\source\repos\While Loop\Graduation\obj\Debug\netcoreapp3.0\Graduation.pdb

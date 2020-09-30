@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\bin\Debug\netcoreapp3.0\Point in Rectangle.exe
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\bin\Debug\netcoreapp3.0\Point in Rectangle.deps.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\bin\Debug\netcoreapp3.0\Point in Rectangle.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\bin\Debug\netcoreapp3.0\Point in Rectangle.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\bin\Debug\netcoreapp3.0\Point in Rectangle.dll
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\bin\Debug\netcoreapp3.0\Point in Rectangle.pdb
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\obj\Debug\netcoreapp3.0\Point in Rectangle.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\obj\Debug\netcoreapp3.0\Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\obj\Debug\netcoreapp3.0\Point in Rectangle.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\obj\Debug\netcoreapp3.0\Point in Rectangle.dll
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Rectangle\obj\Debug\netcoreapp3.0\Point in Rectangle.pdb

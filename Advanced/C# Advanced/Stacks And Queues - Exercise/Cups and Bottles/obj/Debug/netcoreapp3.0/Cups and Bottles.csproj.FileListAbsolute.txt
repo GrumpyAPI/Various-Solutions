@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\bin\Debug\netcoreapp3.0\Cups and Bottles.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\bin\Debug\netcoreapp3.0\Cups and Bottles.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\bin\Debug\netcoreapp3.0\Cups and Bottles.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\bin\Debug\netcoreapp3.0\Cups and Bottles.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\bin\Debug\netcoreapp3.0\Cups and Bottles.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\bin\Debug\netcoreapp3.0\Cups and Bottles.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\obj\Debug\netcoreapp3.0\Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\obj\Debug\netcoreapp3.0\Cups and Bottles.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\obj\Debug\netcoreapp3.0\Cups and Bottles.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Cups and Bottles\obj\Debug\netcoreapp3.0\Cups and Bottles.pdb

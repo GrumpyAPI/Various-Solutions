@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.exe
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.pdb
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.dll
+C:\Users\yulia\source\repos\Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.pdb

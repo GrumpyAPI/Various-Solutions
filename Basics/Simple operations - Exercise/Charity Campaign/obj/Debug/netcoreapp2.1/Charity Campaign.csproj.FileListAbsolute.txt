@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\bin\Debug\netcoreapp2.1\Charity Campaign.deps.json
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\bin\Debug\netcoreapp2.1\Charity Campaign.runtimeconfig.json
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\bin\Debug\netcoreapp2.1\Charity Campaign.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\bin\Debug\netcoreapp2.1\Charity Campaign.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\bin\Debug\netcoreapp2.1\Charity Campaign.pdb
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\obj\Debug\netcoreapp2.1\Charity Campaign.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\obj\Debug\netcoreapp2.1\Charity Campaign.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\obj\Debug\netcoreapp2.1\Charity Campaign.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\obj\Debug\netcoreapp2.1\Charity Campaign.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\obj\Debug\netcoreapp2.1\Charity Campaign.dll
+C:\Users\yulia\source\repos\Simple operations - practice\Charity Campaign\obj\Debug\netcoreapp2.1\Charity Campaign.pdb

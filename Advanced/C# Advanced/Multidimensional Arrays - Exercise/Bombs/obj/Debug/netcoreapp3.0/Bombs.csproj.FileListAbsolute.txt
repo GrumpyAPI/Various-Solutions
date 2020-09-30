@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\bin\Debug\netcoreapp3.0\Bombs.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\bin\Debug\netcoreapp3.0\Bombs.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\bin\Debug\netcoreapp3.0\Bombs.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\bin\Debug\netcoreapp3.0\Bombs.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\bin\Debug\netcoreapp3.0\Bombs.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\bin\Debug\netcoreapp3.0\Bombs.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\obj\Debug\netcoreapp3.0\Bombs.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\obj\Debug\netcoreapp3.0\Bombs.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\obj\Debug\netcoreapp3.0\Bombs.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\obj\Debug\netcoreapp3.0\Bombs.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays - Exercise\Bombs\obj\Debug\netcoreapp3.0\Bombs.pdb

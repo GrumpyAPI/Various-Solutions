@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Methods\Printing triangle\bin\Debug\netcoreapp3.0\Printing triangle.exe
+C:\Users\yulia\source\repos\Methods\Printing triangle\bin\Debug\netcoreapp3.0\Printing triangle.deps.json
+C:\Users\yulia\source\repos\Methods\Printing triangle\bin\Debug\netcoreapp3.0\Printing triangle.runtimeconfig.json
+C:\Users\yulia\source\repos\Methods\Printing triangle\bin\Debug\netcoreapp3.0\Printing triangle.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Methods\Printing triangle\bin\Debug\netcoreapp3.0\Printing triangle.dll
+C:\Users\yulia\source\repos\Methods\Printing triangle\bin\Debug\netcoreapp3.0\Printing triangle.pdb
+C:\Users\yulia\source\repos\Methods\Printing triangle\obj\Debug\netcoreapp3.0\Printing triangle.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Methods\Printing triangle\obj\Debug\netcoreapp3.0\Printing triangle.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Methods\Printing triangle\obj\Debug\netcoreapp3.0\Printing triangle.dll
+C:\Users\yulia\source\repos\Methods\Printing triangle\obj\Debug\netcoreapp3.0\Printing triangle.pdb
+C:\Users\yulia\source\repos\Methods\Printing triangle\obj\Debug\netcoreapp3.0\Printing triangle.csprojAssemblyReference.cache

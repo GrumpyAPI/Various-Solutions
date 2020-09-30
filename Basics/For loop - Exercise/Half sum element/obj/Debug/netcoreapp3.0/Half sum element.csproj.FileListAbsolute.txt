@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\bin\Debug\netcoreapp3.0\Half sum element.exe
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\bin\Debug\netcoreapp3.0\Half sum element.deps.json
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\bin\Debug\netcoreapp3.0\Half sum element.runtimeconfig.json
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\bin\Debug\netcoreapp3.0\Half sum element.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\bin\Debug\netcoreapp3.0\Half sum element.dll
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\bin\Debug\netcoreapp3.0\Half sum element.pdb
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\obj\Debug\netcoreapp3.0\Half sum element.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\obj\Debug\netcoreapp3.0\Half sum element.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\obj\Debug\netcoreapp3.0\Half sum element.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\obj\Debug\netcoreapp3.0\Half sum element.dll
+C:\Users\yulia\source\repos\For loop Exercise\Half sum element\obj\Debug\netcoreapp3.0\Half sum element.pdb

@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\For loop Exercise\Salary\bin\Debug\netcoreapp3.0\Salary.exe
+C:\Users\yulia\source\repos\For loop Exercise\Salary\bin\Debug\netcoreapp3.0\Salary.deps.json
+C:\Users\yulia\source\repos\For loop Exercise\Salary\bin\Debug\netcoreapp3.0\Salary.runtimeconfig.json
+C:\Users\yulia\source\repos\For loop Exercise\Salary\bin\Debug\netcoreapp3.0\Salary.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\For loop Exercise\Salary\bin\Debug\netcoreapp3.0\Salary.dll
+C:\Users\yulia\source\repos\For loop Exercise\Salary\bin\Debug\netcoreapp3.0\Salary.pdb
+C:\Users\yulia\source\repos\For loop Exercise\Salary\obj\Debug\netcoreapp3.0\Salary.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\For loop Exercise\Salary\obj\Debug\netcoreapp3.0\Salary.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\For loop Exercise\Salary\obj\Debug\netcoreapp3.0\Salary.AssemblyInfo.cs
+C:\Users\yulia\source\repos\For loop Exercise\Salary\obj\Debug\netcoreapp3.0\Salary.dll
+C:\Users\yulia\source\repos\For loop Exercise\Salary\obj\Debug\netcoreapp3.0\Salary.pdb

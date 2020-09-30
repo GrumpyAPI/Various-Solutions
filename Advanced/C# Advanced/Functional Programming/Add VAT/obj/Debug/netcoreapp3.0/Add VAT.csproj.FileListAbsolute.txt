@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\bin\Debug\netcoreapp3.0\Add VAT.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Add VAT\obj\Debug\netcoreapp3.0\Add VAT.pdb

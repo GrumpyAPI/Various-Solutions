@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\bin\Debug\netcoreapp3.0\Drum Set.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\bin\Debug\netcoreapp3.0\Drum Set.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\bin\Debug\netcoreapp3.0\Drum Set.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\bin\Debug\netcoreapp3.0\Drum Set.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\bin\Debug\netcoreapp3.0\Drum Set.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\bin\Debug\netcoreapp3.0\Drum Set.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\obj\Debug\netcoreapp3.0\Drum Set.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\obj\Debug\netcoreapp3.0\Drum Set.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\obj\Debug\netcoreapp3.0\Drum Set.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\obj\Debug\netcoreapp3.0\Drum Set.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\Drum Set\obj\Debug\netcoreapp3.0\Drum Set.pdb

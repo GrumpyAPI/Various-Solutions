@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\bin\Debug\netcoreapp3.0\Traffic Jam.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues\Traffic Jam\obj\Debug\netcoreapp3.0\Traffic Jam.pdb

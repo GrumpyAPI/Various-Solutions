@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\bin\Debug\netcoreapp3.0\Dragon Army.exe
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\bin\Debug\netcoreapp3.0\Dragon Army.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\bin\Debug\netcoreapp3.0\Dragon Army.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\bin\Debug\netcoreapp3.0\Dragon Army.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\bin\Debug\netcoreapp3.0\Dragon Army.dll
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\bin\Debug\netcoreapp3.0\Dragon Army.pdb
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\obj\Debug\netcoreapp3.0\Dragon Army.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\obj\Debug\netcoreapp3.0\Dragon Army.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\obj\Debug\netcoreapp3.0\Dragon Army.dll
+C:\Users\yulia\source\repos\Fundamentals\Associative Arrays - Exercise\Dragon Army\obj\Debug\netcoreapp3.0\Dragon Army.pdb

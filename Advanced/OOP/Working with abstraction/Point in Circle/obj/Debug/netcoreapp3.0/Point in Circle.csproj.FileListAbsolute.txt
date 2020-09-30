@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\bin\Debug\netcoreapp3.0\Point in Circle.exe
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\bin\Debug\netcoreapp3.0\Point in Circle.deps.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\bin\Debug\netcoreapp3.0\Point in Circle.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\bin\Debug\netcoreapp3.0\Point in Circle.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\bin\Debug\netcoreapp3.0\Point in Circle.dll
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\bin\Debug\netcoreapp3.0\Point in Circle.pdb
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\obj\Debug\netcoreapp3.0\Point in Circle.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\obj\Debug\netcoreapp3.0\Point in Circle.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\obj\Debug\netcoreapp3.0\Point in Circle.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\obj\Debug\netcoreapp3.0\Point in Circle.dll
+C:\Users\yulia\source\repos\Advanced\OOP\Working with abstraction\Point in Circle\obj\Debug\netcoreapp3.0\Point in Circle.pdb

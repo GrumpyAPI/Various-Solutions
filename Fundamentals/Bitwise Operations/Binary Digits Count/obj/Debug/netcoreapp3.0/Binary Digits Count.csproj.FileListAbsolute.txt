@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\bin\Debug\netcoreapp3.0\Binary Digits Count.exe
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\bin\Debug\netcoreapp3.0\Binary Digits Count.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\bin\Debug\netcoreapp3.0\Binary Digits Count.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\bin\Debug\netcoreapp3.0\Binary Digits Count.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\bin\Debug\netcoreapp3.0\Binary Digits Count.dll
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\bin\Debug\netcoreapp3.0\Binary Digits Count.pdb
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\obj\Debug\netcoreapp3.0\Binary Digits Count.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\obj\Debug\netcoreapp3.0\Binary Digits Count.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\obj\Debug\netcoreapp3.0\Binary Digits Count.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\obj\Debug\netcoreapp3.0\Binary Digits Count.dll
+C:\Users\yulia\source\repos\Fundamentals\Bitwise Operations\Binary Digits Count\obj\Debug\netcoreapp3.0\Binary Digits Count.pdb

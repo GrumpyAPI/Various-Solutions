@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\bin\Debug\netcoreapp3.0\Basic Queue Operations.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Stacks And Queues - Exercise\Basic Queue Operations\obj\Debug\netcoreapp3.0\Basic Queue Operations.pdb

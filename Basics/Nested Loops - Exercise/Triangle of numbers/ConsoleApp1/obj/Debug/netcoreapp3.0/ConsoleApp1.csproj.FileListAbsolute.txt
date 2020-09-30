@@ -1,0 +1,22 @@
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\yulia\source\repos\Fundamentals\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\yulia\source\repos\Basics\Nested Loops - Exercise\Triangle of numbers\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

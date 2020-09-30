@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\bin\Debug\netcoreapp3.0\Post Office.exe
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\bin\Debug\netcoreapp3.0\Post Office.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\bin\Debug\netcoreapp3.0\Post Office.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\bin\Debug\netcoreapp3.0\Post Office.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\bin\Debug\netcoreapp3.0\Post Office.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\bin\Debug\netcoreapp3.0\Post Office.pdb
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\obj\Debug\netcoreapp3.0\Post Office.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\obj\Debug\netcoreapp3.0\Post Office.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\obj\Debug\netcoreapp3.0\Post Office.dll
+C:\Users\yulia\source\repos\Fundamentals\Regular Expressions - Exercise\Post Office\obj\Debug\netcoreapp3.0\Post Office.pdb

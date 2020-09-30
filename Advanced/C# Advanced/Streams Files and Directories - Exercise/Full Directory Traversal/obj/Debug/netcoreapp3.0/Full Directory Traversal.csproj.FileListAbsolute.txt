@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\bin\Debug\netcoreapp3.0\Full Directory Traversal.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\bin\Debug\netcoreapp3.0\Full Directory Traversal.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\bin\Debug\netcoreapp3.0\Full Directory Traversal.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\bin\Debug\netcoreapp3.0\Full Directory Traversal.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\bin\Debug\netcoreapp3.0\Full Directory Traversal.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\bin\Debug\netcoreapp3.0\Full Directory Traversal.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\obj\Debug\netcoreapp3.0\Full Directory Traversal.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\obj\Debug\netcoreapp3.0\Full Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\obj\Debug\netcoreapp3.0\Full Directory Traversal.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\obj\Debug\netcoreapp3.0\Full Directory Traversal.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Streams Files and Directories - Exercise\Full Directory Traversal\obj\Debug\netcoreapp3.0\Full Directory Traversal.pdb

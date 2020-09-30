@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.exe
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.deps.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.runtimeconfig.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\bin\Debug\netcoreapp3.0\SoftUni Course Planning.pdb
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.dll
+C:\Users\yulia\source\repos\Fundamentals\Exercise Lists_Arrays Advanced\SoftUni Course Planning\obj\Debug\netcoreapp3.0\SoftUni Course Planning.pdb

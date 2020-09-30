@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\bin\Release\netcoreapp2.1\Speed info.deps.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\bin\Release\netcoreapp2.1\Speed info.runtimeconfig.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\bin\Release\netcoreapp2.1\Speed info.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\bin\Release\netcoreapp2.1\Speed info.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\bin\Release\netcoreapp2.1\Speed info.pdb
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\obj\Release\netcoreapp2.1\Speed info.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\obj\Release\netcoreapp2.1\Speed info.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\obj\Release\netcoreapp2.1\Speed info.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\obj\Release\netcoreapp2.1\Speed info.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\obj\Release\netcoreapp2.1\Speed info.dll
+C:\Users\yulia\source\repos\Conditional statements - Exercise\Speed info\obj\Release\netcoreapp2.1\Speed info.pdb

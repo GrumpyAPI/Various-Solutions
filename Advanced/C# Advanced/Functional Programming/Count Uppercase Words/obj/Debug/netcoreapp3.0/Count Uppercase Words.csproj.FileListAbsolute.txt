@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp3.0\Count Uppercase Words.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp3.0\Count Uppercase Words.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp3.0\Count Uppercase Words.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp3.0\Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp3.0\Count Uppercase Words.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp3.0\Count Uppercase Words.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp3.0\Count Uppercase Words.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp3.0\Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp3.0\Count Uppercase Words.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp3.0\Count Uppercase Words.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp3.0\Count Uppercase Words.pdb

@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\bin\Debug\netcoreapp3.0\Even Times.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Sets and Dictionaries Advanced - Exercise\Even Times\obj\Debug\netcoreapp3.0\Even Times.pdb

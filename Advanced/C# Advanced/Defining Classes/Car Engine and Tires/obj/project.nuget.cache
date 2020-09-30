@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQ8xClx2pfHHMG9bwH5R8HI+MoVIO9mFJunukVcQ8x5GnQ81/0+XyGGX6d4iU54oStNQVUABTnwMOIPHGEheHw==",
+  "success": true,
+  "projectFilePath": "E:\\DOCUMENTS\\C#+\\C# softuni programs\\Advanced\\C# Advanced\\Defining Classes\\Car Engine and Tires\\Car Engine and Tires.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctkV8Vdv7Cc6lkgaYrcdq+Vd5KOICaTKa672FB165bndJg3lCZKLJzVkPXuiUlCSdE6Dc1DkCVACoCqafZJfCw==",
+  "success": true,
+  "projectFilePath": "E:\\DOCUMENTS\\C#+\\C# softuni programs\\Advanced\\OOP\\Working with abstraction\\Point in Circle\\Point in Circle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\yulia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

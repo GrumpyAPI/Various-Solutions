@@ -1,0 +1,11 @@
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.0\Primary Diagonal.exe
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.0\Primary Diagonal.deps.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.0\Primary Diagonal.runtimeconfig.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.0\Primary Diagonal.runtimeconfig.dev.json
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.0\Primary Diagonal.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp3.0\Primary Diagonal.pdb
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.0\Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.0\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.0\Primary Diagonal.AssemblyInfo.cs
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.0\Primary Diagonal.dll
+C:\Users\yulia\source\repos\Advanced\C# Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp3.0\Primary Diagonal.pdb
